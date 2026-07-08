@@ -1,5 +1,42 @@
 [
   {
+    "title": "The Psychology of Money",
+    "authors": [],
+    "publisher": "Harriman House",
+    "publishedDate": "September 08, 2020",
+    "description": "Timeless lessons on wealth, greed, and happiness doing well with money isn’t necessarily about what you know. It’s about how you behave. And behavior is hard to teach, even to really smart people. How to manage money, invest it, and make business decisions are typically considered to involve a lot of mathematical calculations, where data and formulae tell us exactly what to do. But in the real world, people don’t make financial decisions on a spreadsheet. They make them at the dinner table, or i",
+    "image": "https://covers.openlibrary.org/b/id/15215449-L.jpg",
+    "language": "en",
+    "averageRating": 0,
+    "ratingsCount": 0,
+    "categories": [
+      "Money",
+      "Consumption (Economics)",
+      "Quality of life",
+      "Attitude change",
+      "Accounting"
+    ],
+    "pageCount": 256,
+    "isbn13": "9780857197689",
+    "googleBooks": {
+      "id": "OL59343619M",
+      "preview": "https://openlibrary.org/books/OL59343619M",
+      "info": "https://openlibrary.org/books/OL59343619M",
+      "canonical": "https://openlibrary.org/books/OL59343619M"
+    },
+    "issueNumber": 39,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2026-07-08T18:56:32.000Z",
+    "userCategories": [
+      "money",
+      "consumption economics",
+      "quality of life",
+      "attitude change",
+      "accounting"
+    ]
+  },
+  {
     "title": "To Kill a Mockingbird",
     "authors": [
       "Harper Lee"

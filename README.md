@@ -14,8 +14,9 @@ Book tracker powered by [Bookshelf Action](https://github.com/bhaumikmistry/book
 ## My bookshelf
 
 <!--start:bookshelf-action-->
-### ⌛ Currently reading (24)
+### ⌛ Currently reading (25)
 
+[![The Psychology of Money](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F15215449-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/39 "The Psychology of Money by ")
 [![To Kill a Mockingbird](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F15162569-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/38 "To Kill a Mockingbird by Harper Lee")
 [![The Metamorphosis and Other Stories](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F6889547-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/37 "The Metamorphosis and Other Stories by ")
 [![Revolution](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Folid%2FOL48678300M-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/36 "Revolution by Charles Watts")
