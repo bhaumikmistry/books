@@ -1,5 +1,757 @@
 [
   {
+    "title": "Magic Strings of Frankie Presto",
+    "authors": [
+      "Mitch Albom"
+    ],
+    "publisher": "HarperCollins Canada, Limited",
+    "publishedDate": "2015",
+    "description": "The voice of Music narrates the tale of its most beloved disciple, young Frankie Presto, a war orphan raised by a blind music teacher in a small Spanish town. At nine years old, Frankie is sent to America in the bottom of a boat. His only possession is an old guitar and six precious strings. But Frankie's talent is touched by the gods, and his amazing journey weaves him through the musical landscape of the 20th century, from classical to jazz to rock and roll, with his stunning talent affecting ",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1477323385i/32735857.jpg",
+    "language": "en",
+    "averageRating": 0,
+    "ratingsCount": 0,
+    "categories": [
+      "Guitarists",
+      "Fiction",
+      "nyt:combined-print-and-e-book-fiction=2015-11-29",
+      "New York Times bestseller",
+      "Fiction, visionary & metaphysical"
+    ],
+    "pageCount": 368,
+    "isbn13": "9780062294425",
+    "googleBooks": {
+      "id": "OL29716612M",
+      "preview": "https://openlibrary.org/books/OL29716612M",
+      "info": "https://openlibrary.org/books/OL29716612M",
+      "canonical": "https://openlibrary.org/books/OL29716612M"
+    },
+    "issueNumber": 18,
+    "progressPercent": 0,
+    "read": 100,
+    "abandoned": false,
+    "state": "completed",
+    "startedAt": "2026-07-08T18:43:54.000Z",
+    "completedAt": "2026-07-08T19:55:01.000Z",
+    "timeToComplete": 4267000,
+    "timeToCompleteFormatted": "1 hour",
+    "rating": 4,
+    "userCategories": [
+      "fiction",
+      "guitarists",
+      "nyt combined print and e book fiction...",
+      "new york times bestseller",
+      "fiction visionary and metaphysical",
+      "older"
+    ]
+  },
+  {
+    "title": "Raavan",
+    "authors": [
+      "Amish Tripathi"
+    ],
+    "publisher": "Amazon Publishing",
+    "publishedDate": "2019",
+    "description": "",
+    "image": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1559568404i/46138026.jpg",
+    "language": "en",
+    "averageRating": 0,
+    "ratingsCount": 0,
+    "categories": [
+      "English literature",
+      "Fiction",
+      "Blessing and cursing",
+      "Pirates",
+      "Hindu mythology"
+    ],
+    "pageCount": 400,
+    "isbn13": "9789388754088",
+    "googleBooks": {
+      "id": "OL28734635M",
+      "preview": "https://openlibrary.org/books/OL28734635M",
+      "info": "https://openlibrary.org/books/OL28734635M",
+      "canonical": "https://openlibrary.org/books/OL28734635M"
+    },
+    "issueNumber": 19,
+    "progressPercent": 0,
+    "read": 100,
+    "abandoned": false,
+    "state": "completed",
+    "startedAt": "2026-07-08T18:44:30.000Z",
+    "completedAt": "2026-07-08T19:55:00.000Z",
+    "timeToComplete": 4230000,
+    "timeToCompleteFormatted": "1 hour",
+    "rating": 4.2,
+    "userCategories": [
+      "fiction",
+      "english literature",
+      "blessing and cursing",
+      "pirates",
+      "hindu mythology",
+      "older"
+    ]
+  },
+  {
+    "title": "Sita",
+    "authors": [],
+    "publisher": "Westland",
+    "publishedDate": "2017",
+    "description": "",
+    "image": "https://covers.openlibrary.org/b/id/8789619-L.jpg",
+    "language": "en",
+    "averageRating": 0,
+    "ratingsCount": 0,
+    "categories": [
+      "Fiction",
+      "Hindu mythology"
+    ],
+    "pageCount": 384,
+    "isbn13": "9789386224583",
+    "googleBooks": {
+      "id": "OL26350903M",
+      "preview": "https://openlibrary.org/books/OL26350903M",
+      "info": "https://openlibrary.org/books/OL26350903M",
+      "canonical": "https://openlibrary.org/books/OL26350903M"
+    },
+    "issueNumber": 20,
+    "progressPercent": 0,
+    "read": 100,
+    "abandoned": false,
+    "state": "completed",
+    "startedAt": "2026-07-08T18:45:06.000Z",
+    "completedAt": "2026-07-08T19:54:59.000Z",
+    "timeToComplete": 4193000,
+    "timeToCompleteFormatted": "1 hour",
+    "rating": 4.1,
+    "userCategories": [
+      "fiction",
+      "hindu mythology",
+      "older"
+    ]
+  },
+  {
+    "title": "Ram - Scion of Ikshvaku",
+    "authors": [
+      "Amish Tripathi"
+    ],
+    "publisher": "Westland",
+    "publishedDate": "Jun 22, 2015",
+    "description": "Novel based on the life of Rāma, Hindu deity.",
+    "image": "https://covers.openlibrary.org/b/id/9386877-L.jpg",
+    "language": "en",
+    "averageRating": 0,
+    "ratingsCount": 0,
+    "categories": [
+      "Hindu mythology",
+      "Fiction",
+      "Rāma (Hindu deity)"
+    ],
+    "pageCount": 378,
+    "isbn10": "9385152149",
+    "isbn13": "9789385152146",
+    "googleBooks": {
+      "id": "OL28002240M",
+      "preview": "https://openlibrary.org/books/OL28002240M",
+      "info": "https://openlibrary.org/books/OL28002240M",
+      "canonical": "https://openlibrary.org/books/OL28002240M"
+    },
+    "issueNumber": 21,
+    "progressPercent": 0,
+    "read": 100,
+    "abandoned": false,
+    "state": "completed",
+    "startedAt": "2026-07-08T18:45:42.000Z",
+    "completedAt": "2026-07-08T19:54:58.000Z",
+    "timeToComplete": 4156000,
+    "timeToCompleteFormatted": "1 hour",
+    "rating": 4,
+    "userCategories": [
+      "fiction",
+      "hindu mythology",
+      "rama hindu deity",
+      "older"
+    ]
+  },
+  {
+    "title": "The Immortals of Meluha",
+    "authors": [],
+    "publisher": "Westland Ltd.",
+    "publishedDate": "February 2010",
+    "description": "1900 BC. In what modern Indians mistakenly call the Indus Valley Civilisation. The inhabitants of that period called it the land of Meluha – a near perfect empire created many centuries earlier by Lord Ram, one of the greatest monarchs that ever lived. This once proud empire and its Suryavanshi rulers face severe perils as its primary river, the revered\r\nSaraswati, is slowly drying to extinction. They also face devastating terrorist attacks from the east, the land of the Chandravanshis. To make ",
+    "image": "https://covers.openlibrary.org/b/id/11152324-L.jpg",
+    "language": "en",
+    "averageRating": 0,
+    "ratingsCount": 0,
+    "categories": [
+      "Indic Mythology",
+      "Siva (Hindu deity)",
+      "Fiction",
+      "Fiction, fantasy, general",
+      "India, fiction"
+    ],
+    "pageCount": 418,
+    "isbn13": "9789380658742",
+    "googleBooks": {
+      "id": "OL25631521M",
+      "preview": "https://openlibrary.org/books/OL25631521M",
+      "info": "https://openlibrary.org/books/OL25631521M",
+      "canonical": "https://openlibrary.org/books/OL25631521M"
+    },
+    "issueNumber": 22,
+    "progressPercent": 0,
+    "read": 100,
+    "abandoned": false,
+    "state": "completed",
+    "startedAt": "2026-07-08T18:46:19.000Z",
+    "completedAt": "2026-07-08T19:54:57.000Z",
+    "timeToComplete": 4118000,
+    "timeToCompleteFormatted": "1 hour",
+    "rating": 4.2,
+    "userCategories": [
+      "fiction",
+      "indic mythology",
+      "siva hindu deity",
+      "fiction fantasy general",
+      "india fiction",
+      "older"
+    ]
+  },
+  {
+    "title": "Oath of the Vayuputras (Shiva Trilogy Book 3)",
+    "authors": [
+      "Amish Tripathi"
+    ],
+    "publisher": "HarperCollins Publishers India",
+    "publishedDate": "2022",
+    "description": "",
+    "image": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1664759899i/62044374.jpg",
+    "language": "en",
+    "averageRating": 0,
+    "ratingsCount": 0,
+    "categories": [],
+    "pageCount": 0,
+    "isbn13": "9789356290686",
+    "googleBooks": {
+      "id": "OL40163590M",
+      "preview": "https://openlibrary.org/books/OL40163590M",
+      "info": "https://openlibrary.org/books/OL40163590M",
+      "canonical": "https://openlibrary.org/books/OL40163590M"
+    },
+    "issueNumber": 24,
+    "progressPercent": 0,
+    "read": 100,
+    "abandoned": false,
+    "state": "completed",
+    "startedAt": "2026-07-08T18:47:31.000Z",
+    "completedAt": "2026-07-08T19:54:55.000Z",
+    "timeToComplete": 4044000,
+    "timeToCompleteFormatted": "1 hour",
+    "rating": 4,
+    "userCategories": [
+      "older"
+    ]
+  },
+  {
+    "title": "A Brief History of Time",
+    "authors": [],
+    "publisher": "andom House Publishing Group",
+    "publishedDate": "1998-09-01",
+    "description": "Stephen Hawking's ‘A Brief History of Time* has become an international publishing phenomenon. Translated into thirty languages, it has sold over ten million copies worldwide and lives on as a science book that continues to captivate and inspire new readers each year. When it was first published in 1988 the ideas discussed in it were at the cutting edge of what was then known about the universe. In the intervening twenty years there have been extraordinary advances in the technology of observing",
+    "image": "https://covers.openlibrary.org/b/id/14589690-L.jpg",
+    "language": "en",
+    "averageRating": 0,
+    "ratingsCount": 0,
+    "categories": [
+      "Cosmologie",
+      "Temps (durée)",
+      "Espace-temps",
+      "Vulgarisation scientifique",
+      "Univers"
+    ],
+    "pageCount": 0,
+    "isbn10": "0553380168",
+    "isbn13": "9780553380163",
+    "googleBooks": {
+      "id": "OL51162205M",
+      "preview": "https://openlibrary.org/books/OL51162205M",
+      "info": "https://openlibrary.org/books/OL51162205M",
+      "canonical": "https://openlibrary.org/books/OL51162205M"
+    },
+    "issueNumber": 25,
+    "progressPercent": 0,
+    "read": 100,
+    "abandoned": false,
+    "state": "completed",
+    "startedAt": "2026-07-08T18:48:07.000Z",
+    "completedAt": "2026-07-08T19:54:54.000Z",
+    "timeToComplete": 4007000,
+    "timeToCompleteFormatted": "1 hour",
+    "rating": 4.4,
+    "userCategories": [
+      "cosmologie",
+      "temps duree",
+      "espace temps",
+      "vulgarisation scientifique",
+      "univers",
+      "favorites",
+      "older"
+    ]
+  },
+  {
+    "title": "Norwegian Wood",
+    "authors": [],
+    "publisher": "Vintage",
+    "publishedDate": "2000",
+    "description": "As his plane lands at a European airport, thirty-seven-year-old Toru Watanabe casually hears an old Beatles song. Suddenly, the music transports him back to his youth, to the turbulent Tokyo of the late sixties. He then remembers, with melancholy and unease, the unstable and mysterious Naoko, the girlfriend of his best—and only—friend from adolescence, Kizuki, and how Kizuki's suicide distanced them for a year until they reunited at university. There, they began an intimate relationship, which w",
+    "image": "https://covers.openlibrary.org/b/id/6376119-L.jpg",
+    "language": "en",
+    "averageRating": 0,
+    "ratingsCount": 0,
+    "categories": [
+      "Student",
+      "Theaterwissenschaft",
+      "Liebesbeziehung",
+      "Belletristische Darstellung",
+      "Fiction, romance, general"
+    ],
+    "pageCount": 298,
+    "isbn10": "0375704027",
+    "googleBooks": {
+      "id": "OL24196635M",
+      "preview": "https://openlibrary.org/books/OL24196635M",
+      "info": "https://openlibrary.org/books/OL24196635M",
+      "canonical": "https://openlibrary.org/books/OL24196635M"
+    },
+    "issueNumber": 26,
+    "progressPercent": 0,
+    "read": 100,
+    "abandoned": false,
+    "state": "completed",
+    "startedAt": "2026-07-08T18:48:43.000Z",
+    "completedAt": "2026-07-08T19:54:53.000Z",
+    "timeToComplete": 3970000,
+    "timeToCompleteFormatted": "1 hour",
+    "rating": 4.3,
+    "userCategories": [
+      "student",
+      "theaterwissenschaft",
+      "liebesbeziehung",
+      "belletristische darstellung",
+      "fiction romance general",
+      "favorites",
+      "older"
+    ]
+  },
+  {
+    "title": "My Gita",
+    "authors": [],
+    "publisher": "Rupa",
+    "publishedDate": "2015",
+    "description": "",
+    "image": "https://covers.openlibrary.org/b/id/15221897-L.jpg",
+    "language": "en",
+    "averageRating": 0,
+    "ratingsCount": 0,
+    "categories": [],
+    "pageCount": 0,
+    "isbn13": "9788129137708",
+    "googleBooks": {
+      "id": "OL61957426M",
+      "preview": "https://openlibrary.org/books/OL61957426M",
+      "info": "https://openlibrary.org/books/OL61957426M",
+      "canonical": "https://openlibrary.org/books/OL61957426M"
+    },
+    "issueNumber": 27,
+    "progressPercent": 0,
+    "read": 100,
+    "abandoned": false,
+    "state": "completed",
+    "startedAt": "2026-07-08T18:49:19.000Z",
+    "completedAt": "2026-07-08T19:54:52.000Z",
+    "timeToComplete": 3933000,
+    "timeToCompleteFormatted": "1 hour",
+    "rating": 4.2,
+    "userCategories": [
+      "older"
+    ]
+  },
+  {
+    "title": "Red Queen",
+    "authors": [],
+    "publisher": "Orion Books",
+    "publishedDate": "2015",
+    "description": "Mare Barrow's world is divided by blood--those with red and those with silver. Mare and her family are lowly Reds, destined to serve the Silver elite whose supernatural abilities make them nearly gods. Mare steals what she can to help her family survive, but when her best friend is conscripted into the army she gambles everything to win his freedom. A twist of fate leads her to the royal palace itself, where, in front of the king and all his nobles, she discovers a power of her own--an ability s",
+    "image": "https://covers.openlibrary.org/b/id/15178742-L.jpg",
+    "language": "en",
+    "averageRating": 0,
+    "ratingsCount": 0,
+    "categories": [
+      "Love & Romance",
+      "Ability",
+      "Resistance to Government",
+      "Juvenile fiction",
+      "Ungdomslitteratur"
+    ],
+    "pageCount": 388,
+    "isbn10": "0062310631",
+    "isbn13": "9780062310637",
+    "googleBooks": {
+      "id": "OL25934772M",
+      "preview": "https://openlibrary.org/books/OL25934772M",
+      "info": "https://openlibrary.org/books/OL25934772M",
+      "canonical": "https://openlibrary.org/books/OL25934772M"
+    },
+    "issueNumber": 28,
+    "progressPercent": 0,
+    "read": 100,
+    "abandoned": false,
+    "state": "completed",
+    "startedAt": "2026-07-08T18:49:55.000Z",
+    "completedAt": "2026-07-08T19:54:51.000Z",
+    "timeToComplete": 3896000,
+    "timeToCompleteFormatted": "1 hour",
+    "rating": 4.1,
+    "userCategories": [
+      "love and romance",
+      "ability",
+      "resistance to government",
+      "juvenile fiction",
+      "ungdomslitteratur",
+      "older"
+    ]
+  },
+  {
+    "title": "The Notebook",
+    "authors": [
+      "Nicholas Sparks"
+    ],
+    "publisher": "Warner Books",
+    "publishedDate": "February 1, 2004",
+    "description": "A man with a faded, well-worn notebook open in his lap. A woman experiencing a morning ritual she doesn't understand. Until he begins to read to her. An achingly tender story about the enduring power of love.\r\n\r\nA man with a faded, well-worn notebook open in his lap. A woman experiencing a morning ritual she doesn't understand. Until he begins to read to her. The Notebook is an achingly tender story about the enduring power of love, a story of miracles that will stay with you forever. \r\n\r\nSet am",
+    "image": "https://covers.openlibrary.org/b/id/6305115-L.jpg",
+    "language": "en",
+    "averageRating": 0,
+    "ratingsCount": 0,
+    "categories": [
+      "Man-woman relationships, fiction",
+      "Oral reading",
+      "Older people",
+      "Ancianos",
+      "Novela"
+    ],
+    "pageCount": 239,
+    "isbn10": "0446605239",
+    "isbn13": "9780446605236",
+    "googleBooks": {
+      "id": "OL7537503M",
+      "preview": "https://openlibrary.org/books/OL7537503M",
+      "info": "https://openlibrary.org/books/OL7537503M",
+      "canonical": "https://openlibrary.org/books/OL7537503M"
+    },
+    "issueNumber": 29,
+    "progressPercent": 0,
+    "read": 100,
+    "abandoned": false,
+    "state": "completed",
+    "startedAt": "2026-07-08T18:50:31.000Z",
+    "completedAt": "2026-07-08T19:54:50.000Z",
+    "timeToComplete": 3859000,
+    "timeToCompleteFormatted": "1 hour",
+    "rating": 4.4,
+    "userCategories": [
+      "man woman relationships fiction",
+      "oral reading",
+      "older people",
+      "ancianos",
+      "novela",
+      "older"
+    ]
+  },
+  {
+    "title": "Water Street",
+    "authors": [
+      "Patricia Reilly Giff"
+    ],
+    "publisher": "Wendy Lamb Books",
+    "publishedDate": "September 12, 2006",
+    "description": "In the shadow of the construction of the Brooklyn Bridge, eighth-graders and new neighbors Bird Mallon and Thomas Neary make some decisions about what they want to do with their lives.",
+    "image": "https://covers.openlibrary.org/b/id/244038-L.jpg",
+    "language": "en",
+    "averageRating": 0,
+    "ratingsCount": 0,
+    "categories": [
+      "Irish Americans",
+      "Self-realization in fiction",
+      "Families",
+      "Irish Americans in fiction",
+      "Families in fiction"
+    ],
+    "pageCount": 176,
+    "isbn10": "0385730683",
+    "isbn13": "9780385730686",
+    "googleBooks": {
+      "id": "OL7441955M",
+      "preview": "https://openlibrary.org/books/OL7441955M",
+      "info": "https://openlibrary.org/books/OL7441955M",
+      "canonical": "https://openlibrary.org/books/OL7441955M"
+    },
+    "issueNumber": 30,
+    "progressPercent": 0,
+    "read": 100,
+    "abandoned": false,
+    "state": "completed",
+    "startedAt": "2026-07-08T18:51:07.000Z",
+    "completedAt": "2026-07-08T19:54:49.000Z",
+    "timeToComplete": 3822000,
+    "timeToCompleteFormatted": "1 hour",
+    "rating": 3.9,
+    "userCategories": [
+      "irish americans",
+      "self realization in fiction",
+      "families",
+      "irish americans in fiction",
+      "families in fiction",
+      "older"
+    ]
+  },
+  {
+    "title": "Wreck This Journal  Expanded Ed.",
+    "authors": [
+      "Keri Smith"
+    ],
+    "publisher": "Penguin Books",
+    "publishedDate": "Aug 07, 2012",
+    "description": "",
+    "image": "https://covers.openlibrary.org/b/id/12587849-L.jpg",
+    "language": "en",
+    "averageRating": 0,
+    "ratingsCount": 0,
+    "categories": [
+      "Non-classifiable"
+    ],
+    "pageCount": 224,
+    "isbn10": "0399162720",
+    "isbn13": "9780399162725",
+    "googleBooks": {
+      "id": "OL36777640M",
+      "preview": "https://openlibrary.org/books/OL36777640M",
+      "info": "https://openlibrary.org/books/OL36777640M",
+      "canonical": "https://openlibrary.org/books/OL36777640M"
+    },
+    "issueNumber": 31,
+    "progressPercent": 0,
+    "read": 100,
+    "abandoned": false,
+    "state": "completed",
+    "startedAt": "2026-07-08T18:51:44.000Z",
+    "completedAt": "2026-07-08T19:54:48.000Z",
+    "timeToComplete": 3784000,
+    "timeToCompleteFormatted": "1 hour",
+    "rating": 4,
+    "userCategories": [
+      "non classifiable",
+      "older"
+    ]
+  },
+  {
+    "title": "Trailblazer",
+    "authors": [
+      "Marc Benioff",
+      "Monica Langley"
+    ],
+    "publisher": "EYROLLES",
+    "publishedDate": "Jul 02, 2020",
+    "description": "",
+    "image": "https://covers.openlibrary.org/b/id/13334032-L.jpg",
+    "language": "en",
+    "averageRating": 0,
+    "ratingsCount": 0,
+    "categories": [
+      "nyt:advice-how-to-and-miscellaneous=2019-11-03",
+      "New York Times bestseller",
+      "Social responsibility of business",
+      "Leadership",
+      "Customer relations"
+    ],
+    "pageCount": 240,
+    "isbn10": "2212574894",
+    "isbn13": "9782212574890",
+    "googleBooks": {
+      "id": "OL44003084M",
+      "preview": "https://openlibrary.org/books/OL44003084M",
+      "info": "https://openlibrary.org/books/OL44003084M",
+      "canonical": "https://openlibrary.org/books/OL44003084M"
+    },
+    "issueNumber": 32,
+    "progressPercent": 0,
+    "read": 100,
+    "abandoned": false,
+    "state": "completed",
+    "startedAt": "2026-07-08T18:52:20.000Z",
+    "completedAt": "2026-07-08T19:54:47.000Z",
+    "timeToComplete": 3747000,
+    "timeToCompleteFormatted": "1 hour",
+    "rating": 4.1,
+    "userCategories": [
+      "new york times bestseller",
+      "nyt advice how to and miscellaneous 2...",
+      "social responsibility of business",
+      "leadership",
+      "customer relations",
+      "older"
+    ]
+  },
+  {
+    "title": "Men Without Women",
+    "authors": [
+      "村上春樹"
+    ],
+    "publisher": "Vintage",
+    "publishedDate": "May 01, 2018",
+    "description": "A collection of stories by Haruki Murakami",
+    "image": "https://covers.openlibrary.org/b/id/8818031-L.jpg",
+    "language": "en",
+    "averageRating": 0,
+    "ratingsCount": 0,
+    "categories": [
+      "Translations into English",
+      "Fiction, short stories (single author)",
+      "Near and far eastern fiction (fictional works by one author)",
+      "nyt:hardcover-fiction=2017-05-28",
+      "New York Times bestseller"
+    ],
+    "pageCount": 240,
+    "isbn10": "1101974524",
+    "isbn13": "9781101974520",
+    "googleBooks": {
+      "id": "OL27354558M",
+      "preview": "https://openlibrary.org/books/OL27354558M",
+      "info": "https://openlibrary.org/books/OL27354558M",
+      "canonical": "https://openlibrary.org/books/OL27354558M"
+    },
+    "issueNumber": 33,
+    "progressPercent": 0,
+    "read": 100,
+    "abandoned": false,
+    "state": "completed",
+    "startedAt": "2026-07-08T18:52:56.000Z",
+    "completedAt": "2026-07-08T19:54:46.000Z",
+    "timeToComplete": 3710000,
+    "timeToCompleteFormatted": "1 hour",
+    "rating": 4,
+    "userCategories": [
+      "older"
+    ]
+  },
+  {
+    "title": "Days at the Morisaki Bookshop",
+    "authors": [
+      "Satoshi Yagisawa",
+      "Eric Ozawa"
+    ],
+    "publisher": "HarperCollins Publishers",
+    "publishedDate": "2023",
+    "description": "Esta é uma história em que a magia dos livros, a paixão pelas coisas simples e belas e a elegância japonesa se unem para nos tocar a alma e o coração.\r\n\r\nEstamos em Jimbocho, o bairro das livrarias de Tóquio, um paraíso para leitores. Aqui, o tempo não se mede da mesma maneira e a tranquilidade contrasta com o bulício do metro, ali ao lado, e com os desmesurados prédios modernos que traçam linhas retas no céu.\r\n\r\nMas há quem não conheça este bairro. Takako, uma rapariga de 25 anos, com uma exist",
+    "image": "https://covers.openlibrary.org/b/id/13482084-L.jpg",
+    "language": "en",
+    "averageRating": 0,
+    "ratingsCount": 0,
+    "categories": [],
+    "pageCount": 160,
+    "isbn13": "9780063278677",
+    "googleBooks": {
+      "id": "OL40163582M",
+      "preview": "https://openlibrary.org/books/OL40163582M",
+      "info": "https://openlibrary.org/books/OL40163582M",
+      "canonical": "https://openlibrary.org/books/OL40163582M"
+    },
+    "issueNumber": 34,
+    "progressPercent": 0,
+    "read": 100,
+    "abandoned": false,
+    "state": "completed",
+    "startedAt": "2026-07-08T18:53:32.000Z",
+    "completedAt": "2026-07-08T19:54:45.000Z",
+    "timeToComplete": 3673000,
+    "timeToCompleteFormatted": "1 hour",
+    "rating": 4.3,
+    "userCategories": [
+      "favorites",
+      "2026"
+    ]
+  },
+  {
+    "title": "Twice",
+    "authors": [],
+    "publisher": "Harper, an imprint of HarperCollins",
+    "publishedDate": "2025",
+    "description": "When he is eight years old, Alfie Logan discovers the magical ability to get a second chance at everything. He can undo any moment and live it again. The one catch: he must accept the consequences of his second try—for better or worse.\r\n\r\nHe grows up correcting his mistakes and saving himself from adolescent embarrassments. He even takes foolishly dangerous risks, just to see what it’s like to come close to death, before tapping back to safety.\r\n\r\nEventually, Alfie turns his gift to his love lif",
+    "image": "https://covers.openlibrary.org/b/id/15130697-L.jpg",
+    "language": "en",
+    "averageRating": 0,
+    "ratingsCount": 0,
+    "categories": [],
+    "pageCount": 320,
+    "isbn13": "9780062406682",
+    "googleBooks": {
+      "id": "OL60452433M",
+      "preview": "https://openlibrary.org/books/OL60452433M",
+      "info": "https://openlibrary.org/books/OL60452433M",
+      "canonical": "https://openlibrary.org/books/OL60452433M"
+    },
+    "issueNumber": 35,
+    "progressPercent": 0,
+    "read": 100,
+    "abandoned": false,
+    "state": "completed",
+    "startedAt": "2026-07-08T18:54:08.000Z",
+    "completedAt": "2026-07-08T19:54:44.000Z",
+    "timeToComplete": 3636000,
+    "timeToCompleteFormatted": "1 hour",
+    "rating": 4.1,
+    "userCategories": [
+      "2025"
+    ]
+  },
+  {
+    "title": "Revolution",
+    "authors": [
+      "Charles Watts"
+    ],
+    "publisher": "HarperCollins Publishers Limited",
+    "publishedDate": "2023",
+    "description": "",
+    "image": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1683044093i/123249137.jpg",
+    "language": "en",
+    "averageRating": 0,
+    "ratingsCount": 0,
+    "categories": [
+      "Recreation"
+    ],
+    "pageCount": 0,
+    "isbn13": "9780008646493",
+    "googleBooks": {
+      "id": "OL48678300M",
+      "preview": "https://openlibrary.org/books/OL48678300M",
+      "info": "https://openlibrary.org/books/OL48678300M",
+      "canonical": "https://openlibrary.org/books/OL48678300M"
+    },
+    "issueNumber": 36,
+    "progressPercent": 0,
+    "read": 100,
+    "abandoned": false,
+    "state": "completed",
+    "startedAt": "2026-07-08T18:54:44.000Z",
+    "completedAt": "2026-07-08T19:54:42.000Z",
+    "timeToComplete": 3598000,
+    "timeToCompleteFormatted": "59 minutes",
+    "rating": 4.2,
+    "userCategories": [
+      "recreation",
+      "2025"
+    ]
+  },
+  {
     "title": "The Metamorphosis and Other Stories",
     "authors": [],
     "publisher": "Dover Publications",
@@ -447,704 +1199,6 @@
       "older",
       "roman",
       "englisch"
-    ]
-  },
-  {
-    "title": "Revolution",
-    "authors": [
-      "Charles Watts"
-    ],
-    "publisher": "HarperCollins Publishers Limited",
-    "publishedDate": "2023",
-    "description": "",
-    "image": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1683044093i/123249137.jpg",
-    "language": "en",
-    "averageRating": 0,
-    "ratingsCount": 0,
-    "categories": [
-      "Recreation"
-    ],
-    "pageCount": 0,
-    "isbn13": "9780008646493",
-    "googleBooks": {
-      "id": "OL48678300M",
-      "preview": "https://openlibrary.org/books/OL48678300M",
-      "info": "https://openlibrary.org/books/OL48678300M",
-      "canonical": "https://openlibrary.org/books/OL48678300M"
-    },
-    "issueNumber": 36,
-    "progressPercent": 0,
-    "read": 0,
-    "abandoned": false,
-    "state": "reading",
-    "startedAt": "2026-07-08T18:54:44.000Z",
-    "rating": 4.2,
-    "userCategories": [
-      "recreation",
-      "2025"
-    ]
-  },
-  {
-    "title": "Twice",
-    "authors": [],
-    "publisher": "Harper, an imprint of HarperCollins",
-    "publishedDate": "2025",
-    "description": "When he is eight years old, Alfie Logan discovers the magical ability to get a second chance at everything. He can undo any moment and live it again. The one catch: he must accept the consequences of his second try—for better or worse.\r\n\r\nHe grows up correcting his mistakes and saving himself from adolescent embarrassments. He even takes foolishly dangerous risks, just to see what it’s like to come close to death, before tapping back to safety.\r\n\r\nEventually, Alfie turns his gift to his love lif",
-    "image": "https://covers.openlibrary.org/b/id/15130697-L.jpg",
-    "language": "en",
-    "averageRating": 0,
-    "ratingsCount": 0,
-    "categories": [],
-    "pageCount": 320,
-    "isbn13": "9780062406682",
-    "googleBooks": {
-      "id": "OL60452433M",
-      "preview": "https://openlibrary.org/books/OL60452433M",
-      "info": "https://openlibrary.org/books/OL60452433M",
-      "canonical": "https://openlibrary.org/books/OL60452433M"
-    },
-    "issueNumber": 35,
-    "progressPercent": 0,
-    "read": 0,
-    "abandoned": false,
-    "state": "reading",
-    "startedAt": "2026-07-08T18:54:08.000Z",
-    "rating": 4.1,
-    "userCategories": [
-      "2025"
-    ]
-  },
-  {
-    "title": "Days at the Morisaki Bookshop",
-    "authors": [
-      "Satoshi Yagisawa",
-      "Eric Ozawa"
-    ],
-    "publisher": "HarperCollins Publishers",
-    "publishedDate": "2023",
-    "description": "Esta é uma história em que a magia dos livros, a paixão pelas coisas simples e belas e a elegância japonesa se unem para nos tocar a alma e o coração.\r\n\r\nEstamos em Jimbocho, o bairro das livrarias de Tóquio, um paraíso para leitores. Aqui, o tempo não se mede da mesma maneira e a tranquilidade contrasta com o bulício do metro, ali ao lado, e com os desmesurados prédios modernos que traçam linhas retas no céu.\r\n\r\nMas há quem não conheça este bairro. Takako, uma rapariga de 25 anos, com uma exist",
-    "image": "https://covers.openlibrary.org/b/id/13482084-L.jpg",
-    "language": "en",
-    "averageRating": 0,
-    "ratingsCount": 0,
-    "categories": [],
-    "pageCount": 160,
-    "isbn13": "9780063278677",
-    "googleBooks": {
-      "id": "OL40163582M",
-      "preview": "https://openlibrary.org/books/OL40163582M",
-      "info": "https://openlibrary.org/books/OL40163582M",
-      "canonical": "https://openlibrary.org/books/OL40163582M"
-    },
-    "issueNumber": 34,
-    "progressPercent": 0,
-    "read": 0,
-    "abandoned": false,
-    "state": "reading",
-    "startedAt": "2026-07-08T18:53:32.000Z",
-    "rating": 4.3,
-    "userCategories": [
-      "favorites",
-      "2026"
-    ]
-  },
-  {
-    "title": "Men Without Women",
-    "authors": [
-      "村上春樹"
-    ],
-    "publisher": "Vintage",
-    "publishedDate": "May 01, 2018",
-    "description": "A collection of stories by Haruki Murakami",
-    "image": "https://covers.openlibrary.org/b/id/8818031-L.jpg",
-    "language": "en",
-    "averageRating": 0,
-    "ratingsCount": 0,
-    "categories": [
-      "Translations into English",
-      "Fiction, short stories (single author)",
-      "Near and far eastern fiction (fictional works by one author)",
-      "nyt:hardcover-fiction=2017-05-28",
-      "New York Times bestseller"
-    ],
-    "pageCount": 240,
-    "isbn10": "1101974524",
-    "isbn13": "9781101974520",
-    "googleBooks": {
-      "id": "OL27354558M",
-      "preview": "https://openlibrary.org/books/OL27354558M",
-      "info": "https://openlibrary.org/books/OL27354558M",
-      "canonical": "https://openlibrary.org/books/OL27354558M"
-    },
-    "issueNumber": 33,
-    "progressPercent": 0,
-    "read": 0,
-    "abandoned": false,
-    "state": "reading",
-    "startedAt": "2026-07-08T18:52:56.000Z",
-    "rating": 4,
-    "userCategories": [
-      "older"
-    ]
-  },
-  {
-    "title": "Trailblazer",
-    "authors": [
-      "Marc Benioff",
-      "Monica Langley"
-    ],
-    "publisher": "EYROLLES",
-    "publishedDate": "Jul 02, 2020",
-    "description": "",
-    "image": "https://covers.openlibrary.org/b/id/13334032-L.jpg",
-    "language": "en",
-    "averageRating": 0,
-    "ratingsCount": 0,
-    "categories": [
-      "nyt:advice-how-to-and-miscellaneous=2019-11-03",
-      "New York Times bestseller",
-      "Social responsibility of business",
-      "Leadership",
-      "Customer relations"
-    ],
-    "pageCount": 240,
-    "isbn10": "2212574894",
-    "isbn13": "9782212574890",
-    "googleBooks": {
-      "id": "OL44003084M",
-      "preview": "https://openlibrary.org/books/OL44003084M",
-      "info": "https://openlibrary.org/books/OL44003084M",
-      "canonical": "https://openlibrary.org/books/OL44003084M"
-    },
-    "issueNumber": 32,
-    "progressPercent": 0,
-    "read": 0,
-    "abandoned": false,
-    "state": "reading",
-    "startedAt": "2026-07-08T18:52:20.000Z",
-    "rating": 4.1,
-    "userCategories": [
-      "new york times bestseller",
-      "nyt advice how to and miscellaneous 2...",
-      "social responsibility of business",
-      "leadership",
-      "customer relations",
-      "older"
-    ]
-  },
-  {
-    "title": "Wreck This Journal  Expanded Ed.",
-    "authors": [
-      "Keri Smith"
-    ],
-    "publisher": "Penguin Books",
-    "publishedDate": "Aug 07, 2012",
-    "description": "",
-    "image": "https://covers.openlibrary.org/b/id/12587849-L.jpg",
-    "language": "en",
-    "averageRating": 0,
-    "ratingsCount": 0,
-    "categories": [
-      "Non-classifiable"
-    ],
-    "pageCount": 224,
-    "isbn10": "0399162720",
-    "isbn13": "9780399162725",
-    "googleBooks": {
-      "id": "OL36777640M",
-      "preview": "https://openlibrary.org/books/OL36777640M",
-      "info": "https://openlibrary.org/books/OL36777640M",
-      "canonical": "https://openlibrary.org/books/OL36777640M"
-    },
-    "issueNumber": 31,
-    "progressPercent": 0,
-    "read": 0,
-    "abandoned": false,
-    "state": "reading",
-    "startedAt": "2026-07-08T18:51:44.000Z",
-    "rating": 4,
-    "userCategories": [
-      "non classifiable",
-      "older"
-    ]
-  },
-  {
-    "title": "Water Street",
-    "authors": [
-      "Patricia Reilly Giff"
-    ],
-    "publisher": "Wendy Lamb Books",
-    "publishedDate": "September 12, 2006",
-    "description": "In the shadow of the construction of the Brooklyn Bridge, eighth-graders and new neighbors Bird Mallon and Thomas Neary make some decisions about what they want to do with their lives.",
-    "image": "https://covers.openlibrary.org/b/id/244038-L.jpg",
-    "language": "en",
-    "averageRating": 0,
-    "ratingsCount": 0,
-    "categories": [
-      "Irish Americans",
-      "Self-realization in fiction",
-      "Families",
-      "Irish Americans in fiction",
-      "Families in fiction"
-    ],
-    "pageCount": 176,
-    "isbn10": "0385730683",
-    "isbn13": "9780385730686",
-    "googleBooks": {
-      "id": "OL7441955M",
-      "preview": "https://openlibrary.org/books/OL7441955M",
-      "info": "https://openlibrary.org/books/OL7441955M",
-      "canonical": "https://openlibrary.org/books/OL7441955M"
-    },
-    "issueNumber": 30,
-    "progressPercent": 0,
-    "read": 0,
-    "abandoned": false,
-    "state": "reading",
-    "startedAt": "2026-07-08T18:51:07.000Z",
-    "rating": 3.9,
-    "userCategories": [
-      "irish americans",
-      "self realization in fiction",
-      "families",
-      "irish americans in fiction",
-      "families in fiction",
-      "older"
-    ]
-  },
-  {
-    "title": "The Notebook",
-    "authors": [
-      "Nicholas Sparks"
-    ],
-    "publisher": "Warner Books",
-    "publishedDate": "February 1, 2004",
-    "description": "A man with a faded, well-worn notebook open in his lap. A woman experiencing a morning ritual she doesn't understand. Until he begins to read to her. An achingly tender story about the enduring power of love.\r\n\r\nA man with a faded, well-worn notebook open in his lap. A woman experiencing a morning ritual she doesn't understand. Until he begins to read to her. The Notebook is an achingly tender story about the enduring power of love, a story of miracles that will stay with you forever. \r\n\r\nSet am",
-    "image": "https://covers.openlibrary.org/b/id/6305115-L.jpg",
-    "language": "en",
-    "averageRating": 0,
-    "ratingsCount": 0,
-    "categories": [
-      "Man-woman relationships, fiction",
-      "Oral reading",
-      "Older people",
-      "Ancianos",
-      "Novela"
-    ],
-    "pageCount": 239,
-    "isbn10": "0446605239",
-    "isbn13": "9780446605236",
-    "googleBooks": {
-      "id": "OL7537503M",
-      "preview": "https://openlibrary.org/books/OL7537503M",
-      "info": "https://openlibrary.org/books/OL7537503M",
-      "canonical": "https://openlibrary.org/books/OL7537503M"
-    },
-    "issueNumber": 29,
-    "progressPercent": 0,
-    "read": 0,
-    "abandoned": false,
-    "state": "reading",
-    "startedAt": "2026-07-08T18:50:31.000Z",
-    "rating": 4.4,
-    "userCategories": [
-      "man woman relationships fiction",
-      "oral reading",
-      "older people",
-      "ancianos",
-      "novela",
-      "older"
-    ]
-  },
-  {
-    "title": "Red Queen",
-    "authors": [],
-    "publisher": "Orion Books",
-    "publishedDate": "2015",
-    "description": "Mare Barrow's world is divided by blood--those with red and those with silver. Mare and her family are lowly Reds, destined to serve the Silver elite whose supernatural abilities make them nearly gods. Mare steals what she can to help her family survive, but when her best friend is conscripted into the army she gambles everything to win his freedom. A twist of fate leads her to the royal palace itself, where, in front of the king and all his nobles, she discovers a power of her own--an ability s",
-    "image": "https://covers.openlibrary.org/b/id/15178742-L.jpg",
-    "language": "en",
-    "averageRating": 0,
-    "ratingsCount": 0,
-    "categories": [
-      "Love & Romance",
-      "Ability",
-      "Resistance to Government",
-      "Juvenile fiction",
-      "Ungdomslitteratur"
-    ],
-    "pageCount": 388,
-    "isbn10": "0062310631",
-    "isbn13": "9780062310637",
-    "googleBooks": {
-      "id": "OL25934772M",
-      "preview": "https://openlibrary.org/books/OL25934772M",
-      "info": "https://openlibrary.org/books/OL25934772M",
-      "canonical": "https://openlibrary.org/books/OL25934772M"
-    },
-    "issueNumber": 28,
-    "progressPercent": 0,
-    "read": 0,
-    "abandoned": false,
-    "state": "reading",
-    "startedAt": "2026-07-08T18:49:55.000Z",
-    "rating": 4.1,
-    "userCategories": [
-      "love and romance",
-      "ability",
-      "resistance to government",
-      "juvenile fiction",
-      "ungdomslitteratur",
-      "older"
-    ]
-  },
-  {
-    "title": "My Gita",
-    "authors": [],
-    "publisher": "Rupa",
-    "publishedDate": "2015",
-    "description": "",
-    "image": "https://covers.openlibrary.org/b/id/15221897-L.jpg",
-    "language": "en",
-    "averageRating": 0,
-    "ratingsCount": 0,
-    "categories": [],
-    "pageCount": 0,
-    "isbn13": "9788129137708",
-    "googleBooks": {
-      "id": "OL61957426M",
-      "preview": "https://openlibrary.org/books/OL61957426M",
-      "info": "https://openlibrary.org/books/OL61957426M",
-      "canonical": "https://openlibrary.org/books/OL61957426M"
-    },
-    "issueNumber": 27,
-    "progressPercent": 0,
-    "read": 0,
-    "abandoned": false,
-    "state": "reading",
-    "startedAt": "2026-07-08T18:49:19.000Z",
-    "rating": 4.2,
-    "userCategories": [
-      "older"
-    ]
-  },
-  {
-    "title": "Norwegian Wood",
-    "authors": [],
-    "publisher": "Vintage",
-    "publishedDate": "2000",
-    "description": "As his plane lands at a European airport, thirty-seven-year-old Toru Watanabe casually hears an old Beatles song. Suddenly, the music transports him back to his youth, to the turbulent Tokyo of the late sixties. He then remembers, with melancholy and unease, the unstable and mysterious Naoko, the girlfriend of his best—and only—friend from adolescence, Kizuki, and how Kizuki's suicide distanced them for a year until they reunited at university. There, they began an intimate relationship, which w",
-    "image": "https://covers.openlibrary.org/b/id/6376119-L.jpg",
-    "language": "en",
-    "averageRating": 0,
-    "ratingsCount": 0,
-    "categories": [
-      "Student",
-      "Theaterwissenschaft",
-      "Liebesbeziehung",
-      "Belletristische Darstellung",
-      "Fiction, romance, general"
-    ],
-    "pageCount": 298,
-    "isbn10": "0375704027",
-    "googleBooks": {
-      "id": "OL24196635M",
-      "preview": "https://openlibrary.org/books/OL24196635M",
-      "info": "https://openlibrary.org/books/OL24196635M",
-      "canonical": "https://openlibrary.org/books/OL24196635M"
-    },
-    "issueNumber": 26,
-    "progressPercent": 0,
-    "read": 0,
-    "abandoned": false,
-    "state": "reading",
-    "startedAt": "2026-07-08T18:48:43.000Z",
-    "rating": 4.3,
-    "userCategories": [
-      "student",
-      "theaterwissenschaft",
-      "liebesbeziehung",
-      "belletristische darstellung",
-      "fiction romance general",
-      "favorites",
-      "older"
-    ]
-  },
-  {
-    "title": "A Brief History of Time",
-    "authors": [],
-    "publisher": "andom House Publishing Group",
-    "publishedDate": "1998-09-01",
-    "description": "Stephen Hawking's ‘A Brief History of Time* has become an international publishing phenomenon. Translated into thirty languages, it has sold over ten million copies worldwide and lives on as a science book that continues to captivate and inspire new readers each year. When it was first published in 1988 the ideas discussed in it were at the cutting edge of what was then known about the universe. In the intervening twenty years there have been extraordinary advances in the technology of observing",
-    "image": "https://covers.openlibrary.org/b/id/14589690-L.jpg",
-    "language": "en",
-    "averageRating": 0,
-    "ratingsCount": 0,
-    "categories": [
-      "Cosmologie",
-      "Temps (durée)",
-      "Espace-temps",
-      "Vulgarisation scientifique",
-      "Univers"
-    ],
-    "pageCount": 0,
-    "isbn10": "0553380168",
-    "isbn13": "9780553380163",
-    "googleBooks": {
-      "id": "OL51162205M",
-      "preview": "https://openlibrary.org/books/OL51162205M",
-      "info": "https://openlibrary.org/books/OL51162205M",
-      "canonical": "https://openlibrary.org/books/OL51162205M"
-    },
-    "issueNumber": 25,
-    "progressPercent": 0,
-    "read": 0,
-    "abandoned": false,
-    "state": "reading",
-    "startedAt": "2026-07-08T18:48:07.000Z",
-    "rating": 4.4,
-    "userCategories": [
-      "cosmologie",
-      "temps duree",
-      "espace temps",
-      "vulgarisation scientifique",
-      "univers",
-      "favorites",
-      "older"
-    ]
-  },
-  {
-    "title": "Oath of the Vayuputras (Shiva Trilogy Book 3)",
-    "authors": [
-      "Amish Tripathi"
-    ],
-    "publisher": "HarperCollins Publishers India",
-    "publishedDate": "2022",
-    "description": "",
-    "image": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1664759899i/62044374.jpg",
-    "language": "en",
-    "averageRating": 0,
-    "ratingsCount": 0,
-    "categories": [],
-    "pageCount": 0,
-    "isbn13": "9789356290686",
-    "googleBooks": {
-      "id": "OL40163590M",
-      "preview": "https://openlibrary.org/books/OL40163590M",
-      "info": "https://openlibrary.org/books/OL40163590M",
-      "canonical": "https://openlibrary.org/books/OL40163590M"
-    },
-    "issueNumber": 24,
-    "progressPercent": 0,
-    "read": 0,
-    "abandoned": false,
-    "state": "reading",
-    "startedAt": "2026-07-08T18:47:31.000Z",
-    "rating": 4,
-    "userCategories": [
-      "older"
-    ]
-  },
-  {
-    "title": "The Immortals of Meluha",
-    "authors": [],
-    "publisher": "Westland Ltd.",
-    "publishedDate": "February 2010",
-    "description": "1900 BC. In what modern Indians mistakenly call the Indus Valley Civilisation. The inhabitants of that period called it the land of Meluha – a near perfect empire created many centuries earlier by Lord Ram, one of the greatest monarchs that ever lived. This once proud empire and its Suryavanshi rulers face severe perils as its primary river, the revered\r\nSaraswati, is slowly drying to extinction. They also face devastating terrorist attacks from the east, the land of the Chandravanshis. To make ",
-    "image": "https://covers.openlibrary.org/b/id/11152324-L.jpg",
-    "language": "en",
-    "averageRating": 0,
-    "ratingsCount": 0,
-    "categories": [
-      "Indic Mythology",
-      "Siva (Hindu deity)",
-      "Fiction",
-      "Fiction, fantasy, general",
-      "India, fiction"
-    ],
-    "pageCount": 418,
-    "isbn13": "9789380658742",
-    "googleBooks": {
-      "id": "OL25631521M",
-      "preview": "https://openlibrary.org/books/OL25631521M",
-      "info": "https://openlibrary.org/books/OL25631521M",
-      "canonical": "https://openlibrary.org/books/OL25631521M"
-    },
-    "issueNumber": 22,
-    "progressPercent": 0,
-    "read": 0,
-    "abandoned": false,
-    "state": "reading",
-    "startedAt": "2026-07-08T18:46:19.000Z",
-    "rating": 4.2,
-    "userCategories": [
-      "fiction",
-      "indic mythology",
-      "siva hindu deity",
-      "fiction fantasy general",
-      "india fiction",
-      "older"
-    ]
-  },
-  {
-    "title": "Ram - Scion of Ikshvaku",
-    "authors": [
-      "Amish Tripathi"
-    ],
-    "publisher": "Westland",
-    "publishedDate": "Jun 22, 2015",
-    "description": "Novel based on the life of Rāma, Hindu deity.",
-    "image": "https://covers.openlibrary.org/b/id/9386877-L.jpg",
-    "language": "en",
-    "averageRating": 0,
-    "ratingsCount": 0,
-    "categories": [
-      "Hindu mythology",
-      "Fiction",
-      "Rāma (Hindu deity)"
-    ],
-    "pageCount": 378,
-    "isbn10": "9385152149",
-    "isbn13": "9789385152146",
-    "googleBooks": {
-      "id": "OL28002240M",
-      "preview": "https://openlibrary.org/books/OL28002240M",
-      "info": "https://openlibrary.org/books/OL28002240M",
-      "canonical": "https://openlibrary.org/books/OL28002240M"
-    },
-    "issueNumber": 21,
-    "progressPercent": 0,
-    "read": 0,
-    "abandoned": false,
-    "state": "reading",
-    "startedAt": "2026-07-08T18:45:42.000Z",
-    "rating": 4,
-    "userCategories": [
-      "fiction",
-      "hindu mythology",
-      "rama hindu deity",
-      "older"
-    ]
-  },
-  {
-    "title": "Sita",
-    "authors": [],
-    "publisher": "Westland",
-    "publishedDate": "2017",
-    "description": "",
-    "image": "https://covers.openlibrary.org/b/id/8789619-L.jpg",
-    "language": "en",
-    "averageRating": 0,
-    "ratingsCount": 0,
-    "categories": [
-      "Fiction",
-      "Hindu mythology"
-    ],
-    "pageCount": 384,
-    "isbn13": "9789386224583",
-    "googleBooks": {
-      "id": "OL26350903M",
-      "preview": "https://openlibrary.org/books/OL26350903M",
-      "info": "https://openlibrary.org/books/OL26350903M",
-      "canonical": "https://openlibrary.org/books/OL26350903M"
-    },
-    "issueNumber": 20,
-    "progressPercent": 0,
-    "read": 0,
-    "abandoned": false,
-    "state": "reading",
-    "startedAt": "2026-07-08T18:45:06.000Z",
-    "rating": 4.1,
-    "userCategories": [
-      "fiction",
-      "hindu mythology",
-      "older"
-    ]
-  },
-  {
-    "title": "Raavan",
-    "authors": [
-      "Amish Tripathi"
-    ],
-    "publisher": "Amazon Publishing",
-    "publishedDate": "2019",
-    "description": "",
-    "image": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1559568404i/46138026.jpg",
-    "language": "en",
-    "averageRating": 0,
-    "ratingsCount": 0,
-    "categories": [
-      "English literature",
-      "Fiction",
-      "Blessing and cursing",
-      "Pirates",
-      "Hindu mythology"
-    ],
-    "pageCount": 400,
-    "isbn13": "9789388754088",
-    "googleBooks": {
-      "id": "OL28734635M",
-      "preview": "https://openlibrary.org/books/OL28734635M",
-      "info": "https://openlibrary.org/books/OL28734635M",
-      "canonical": "https://openlibrary.org/books/OL28734635M"
-    },
-    "issueNumber": 19,
-    "progressPercent": 0,
-    "read": 0,
-    "abandoned": false,
-    "state": "reading",
-    "startedAt": "2026-07-08T18:44:30.000Z",
-    "rating": 4.2,
-    "userCategories": [
-      "fiction",
-      "english literature",
-      "blessing and cursing",
-      "pirates",
-      "hindu mythology",
-      "older"
-    ]
-  },
-  {
-    "title": "Magic Strings of Frankie Presto",
-    "authors": [
-      "Mitch Albom"
-    ],
-    "publisher": "HarperCollins Canada, Limited",
-    "publishedDate": "2015",
-    "description": "The voice of Music narrates the tale of its most beloved disciple, young Frankie Presto, a war orphan raised by a blind music teacher in a small Spanish town. At nine years old, Frankie is sent to America in the bottom of a boat. His only possession is an old guitar and six precious strings. But Frankie's talent is touched by the gods, and his amazing journey weaves him through the musical landscape of the 20th century, from classical to jazz to rock and roll, with his stunning talent affecting ",
-    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1477323385i/32735857.jpg",
-    "language": "en",
-    "averageRating": 0,
-    "ratingsCount": 0,
-    "categories": [
-      "Guitarists",
-      "Fiction",
-      "nyt:combined-print-and-e-book-fiction=2015-11-29",
-      "New York Times bestseller",
-      "Fiction, visionary & metaphysical"
-    ],
-    "pageCount": 368,
-    "isbn13": "9780062294425",
-    "googleBooks": {
-      "id": "OL29716612M",
-      "preview": "https://openlibrary.org/books/OL29716612M",
-      "info": "https://openlibrary.org/books/OL29716612M",
-      "canonical": "https://openlibrary.org/books/OL29716612M"
-    },
-    "issueNumber": 18,
-    "progressPercent": 0,
-    "read": 0,
-    "abandoned": false,
-    "state": "reading",
-    "startedAt": "2026-07-08T18:43:54.000Z",
-    "rating": 4,
-    "userCategories": [
-      "fiction",
-      "guitarists",
-      "nyt combined print and e book fiction...",
-      "new york times bestseller",
-      "fiction visionary and metaphysical",
-      "older"
     ]
   },
   {
