@@ -1,5 +1,31 @@
 [
   {
+    "title": "Vegetariana / the Vegetarian",
+    "authors": [
+      "Han Kang"
+    ],
+    "publisher": "Penguin Random House Grupo Editorial",
+    "publishedDate": "2024",
+    "description": "",
+    "image": "https://covers.openlibrary.org/b/id/15182525-L.jpg",
+    "language": "es",
+    "averageRating": 0,
+    "ratingsCount": 0,
+    "categories": [],
+    "pageCount": 168,
+    "isbn13": "9788439743897",
+    "googleBooks": {
+      "id": "OL52618111M",
+      "preview": "https://openlibrary.org/books/OL52618111M",
+      "info": "https://openlibrary.org/books/OL52618111M",
+      "canonical": "https://openlibrary.org/books/OL52618111M"
+    },
+    "issueNumber": 43,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2026-07-08T18:58:57.000Z"
+  },
+  {
     "title": "Together",
     "authors": [
       "Luke Adam Hawker"
