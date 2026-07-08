@@ -1,5 +1,32 @@
 [
   {
+    "title": "Chanakya's Chant",
+    "authors": [
+      "Ashwin Sanghi"
+    ],
+    "publisher": "Westland",
+    "publishedDate": "May 22, 2012",
+    "description": "",
+    "image": "https://covers.openlibrary.org/b/olid/OL37054129M-L.jpg",
+    "language": "en",
+    "averageRating": 0,
+    "ratingsCount": 0,
+    "categories": [],
+    "pageCount": 472,
+    "isbn10": "9381626812",
+    "isbn13": "9789381626818",
+    "googleBooks": {
+      "id": "OL37054129M",
+      "preview": "https://openlibrary.org/books/OL37054129M",
+      "info": "https://openlibrary.org/books/OL37054129M",
+      "canonical": "https://openlibrary.org/books/OL37054129M"
+    },
+    "issueNumber": 16,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2026-07-08T18:42:42.000Z"
+  },
+  {
     "title": "For One More Day",
     "authors": [],
     "publisher": "Hyperion",
