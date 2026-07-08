@@ -14,8 +14,9 @@ Book tracker powered by [Bookshelf Action](https://github.com/bhaumikmistry/book
 ## My bookshelf
 
 <!--start:bookshelf-action-->
-### ⌛ Currently reading (17)
+### ⌛ Currently reading (18)
 
+[![Wreck This Journal  Expanded Ed.](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F12587849-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/31 "Wreck This Journal  Expanded Ed. by Keri Smith")
 [![Water Street](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F244038-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/30 "Water Street by Patricia Reilly Giff")
 [![The Notebook](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F6305115-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/29 "The Notebook by Nicholas Sparks")
 [![Red Queen](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F15178742-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/28 "Red Queen by ")
