@@ -22,8 +22,8 @@
       "canonical": "https://openlibrary.org/books/OL47040160M"
     },
     "issueNumber": 51,
-    "progressPercent": 0,
-    "read": 0,
+    "progressPercent": 31,
+    "read": 31,
     "abandoned": false,
     "state": "reading",
     "startedAt": "2026-07-08T20:02:50.000Z"
@@ -157,7 +157,7 @@
       "canonical": "https://openlibrary.org/books/OL25434599M"
     },
     "issueNumber": 14,
-    "progressPercent": 0,
+    "progressPercent": 100,
     "read": 100,
     "abandoned": false,
     "state": "completed",
@@ -202,7 +202,7 @@
       "canonical": "https://openlibrary.org/books/OL38247234M"
     },
     "issueNumber": 15,
-    "progressPercent": 0,
+    "progressPercent": 100,
     "read": 100,
     "abandoned": false,
     "state": "completed",
@@ -243,7 +243,7 @@
       "canonical": "https://openlibrary.org/books/OL37054129M"
     },
     "issueNumber": 16,
-    "progressPercent": 0,
+    "progressPercent": 100,
     "read": 100,
     "abandoned": false,
     "state": "completed",
@@ -283,7 +283,7 @@
       "canonical": "https://openlibrary.org/books/OL39480298M"
     },
     "issueNumber": 17,
-    "progressPercent": 0,
+    "progressPercent": 100,
     "read": 100,
     "abandoned": false,
     "state": "completed",
@@ -329,7 +329,7 @@
       "canonical": "https://openlibrary.org/books/OL29716612M"
     },
     "issueNumber": 18,
-    "progressPercent": 0,
+    "progressPercent": 100,
     "read": 100,
     "abandoned": false,
     "state": "completed",
@@ -375,7 +375,7 @@
       "canonical": "https://openlibrary.org/books/OL28734635M"
     },
     "issueNumber": 19,
-    "progressPercent": 0,
+    "progressPercent": 100,
     "read": 100,
     "abandoned": false,
     "state": "completed",
@@ -416,7 +416,7 @@
       "canonical": "https://openlibrary.org/books/OL26350903M"
     },
     "issueNumber": 20,
-    "progressPercent": 0,
+    "progressPercent": 100,
     "read": 100,
     "abandoned": false,
     "state": "completed",
@@ -458,7 +458,7 @@
       "canonical": "https://openlibrary.org/books/OL28002240M"
     },
     "issueNumber": 21,
-    "progressPercent": 0,
+    "progressPercent": 100,
     "read": 100,
     "abandoned": false,
     "state": "completed",
@@ -500,7 +500,7 @@
       "canonical": "https://openlibrary.org/books/OL25631521M"
     },
     "issueNumber": 22,
-    "progressPercent": 0,
+    "progressPercent": 100,
     "read": 100,
     "abandoned": false,
     "state": "completed",
@@ -540,7 +540,7 @@
       "canonical": "https://openlibrary.org/books/OL40163590M"
     },
     "issueNumber": 24,
-    "progressPercent": 0,
+    "progressPercent": 100,
     "read": 100,
     "abandoned": false,
     "state": "completed",
@@ -580,7 +580,7 @@
       "canonical": "https://openlibrary.org/books/OL51162205M"
     },
     "issueNumber": 25,
-    "progressPercent": 0,
+    "progressPercent": 100,
     "read": 100,
     "abandoned": false,
     "state": "completed",
@@ -625,7 +625,7 @@
       "canonical": "https://openlibrary.org/books/OL24196635M"
     },
     "issueNumber": 26,
-    "progressPercent": 0,
+    "progressPercent": 100,
     "read": 100,
     "abandoned": false,
     "state": "completed",
@@ -664,7 +664,7 @@
       "canonical": "https://openlibrary.org/books/OL61957426M"
     },
     "issueNumber": 27,
-    "progressPercent": 0,
+    "progressPercent": 100,
     "read": 100,
     "abandoned": false,
     "state": "completed",
@@ -704,7 +704,7 @@
       "canonical": "https://openlibrary.org/books/OL25934772M"
     },
     "issueNumber": 28,
-    "progressPercent": 0,
+    "progressPercent": 100,
     "read": 100,
     "abandoned": false,
     "state": "completed",
@@ -751,7 +751,7 @@
       "canonical": "https://openlibrary.org/books/OL7537503M"
     },
     "issueNumber": 29,
-    "progressPercent": 0,
+    "progressPercent": 100,
     "read": 100,
     "abandoned": false,
     "state": "completed",
@@ -798,7 +798,7 @@
       "canonical": "https://openlibrary.org/books/OL7441955M"
     },
     "issueNumber": 30,
-    "progressPercent": 0,
+    "progressPercent": 100,
     "read": 100,
     "abandoned": false,
     "state": "completed",
@@ -841,7 +841,7 @@
       "canonical": "https://openlibrary.org/books/OL36777640M"
     },
     "issueNumber": 31,
-    "progressPercent": 0,
+    "progressPercent": 100,
     "read": 100,
     "abandoned": false,
     "state": "completed",
@@ -885,7 +885,7 @@
       "canonical": "https://openlibrary.org/books/OL44003084M"
     },
     "issueNumber": 32,
-    "progressPercent": 0,
+    "progressPercent": 100,
     "read": 100,
     "abandoned": false,
     "state": "completed",
@@ -932,7 +932,7 @@
       "canonical": "https://openlibrary.org/books/OL27354558M"
     },
     "issueNumber": 33,
-    "progressPercent": 0,
+    "progressPercent": 100,
     "read": 100,
     "abandoned": false,
     "state": "completed",
@@ -968,7 +968,7 @@
       "canonical": "https://openlibrary.org/books/OL40163582M"
     },
     "issueNumber": 34,
-    "progressPercent": 0,
+    "progressPercent": 100,
     "read": 100,
     "abandoned": false,
     "state": "completed",
@@ -1002,7 +1002,7 @@
       "canonical": "https://openlibrary.org/books/OL60452433M"
     },
     "issueNumber": 35,
-    "progressPercent": 0,
+    "progressPercent": 100,
     "read": 100,
     "abandoned": false,
     "state": "completed",
@@ -1039,7 +1039,7 @@
       "canonical": "https://openlibrary.org/books/OL48678300M"
     },
     "issueNumber": 36,
-    "progressPercent": 0,
+    "progressPercent": 100,
     "read": 100,
     "abandoned": false,
     "state": "completed",
@@ -1080,7 +1080,7 @@
       "canonical": "https://openlibrary.org/books/OL24549085M"
     },
     "issueNumber": 37,
-    "progressPercent": 0,
+    "progressPercent": 100,
     "read": 100,
     "abandoned": false,
     "state": "completed",
@@ -1128,7 +1128,7 @@
       "canonical": "https://openlibrary.org/books/OL9242848M"
     },
     "issueNumber": 38,
-    "progressPercent": 0,
+    "progressPercent": 100,
     "read": 100,
     "abandoned": false,
     "state": "completed",
@@ -1172,7 +1172,7 @@
       "canonical": "https://openlibrary.org/books/OL59343619M"
     },
     "issueNumber": 39,
-    "progressPercent": 0,
+    "progressPercent": 100,
     "read": 100,
     "abandoned": false,
     "state": "completed",
@@ -1219,7 +1219,7 @@
       "canonical": "https://openlibrary.org/books/OL27197173M"
     },
     "issueNumber": 40,
-    "progressPercent": 0,
+    "progressPercent": 100,
     "read": 100,
     "abandoned": false,
     "state": "completed",
@@ -1259,7 +1259,7 @@
       "canonical": "https://openlibrary.org/books/OL39269240M"
     },
     "issueNumber": 41,
-    "progressPercent": 0,
+    "progressPercent": 100,
     "read": 100,
     "abandoned": false,
     "state": "completed",
@@ -1296,7 +1296,7 @@
       "canonical": "https://openlibrary.org/books/OL29531882M"
     },
     "issueNumber": 42,
-    "progressPercent": 0,
+    "progressPercent": 100,
     "read": 100,
     "abandoned": false,
     "state": "completed",
@@ -1332,7 +1332,7 @@
       "canonical": "https://openlibrary.org/books/OL52618111M"
     },
     "issueNumber": 43,
-    "progressPercent": 0,
+    "progressPercent": 100,
     "read": 100,
     "abandoned": false,
     "state": "completed",
@@ -1374,7 +1374,7 @@
       "canonical": "https://openlibrary.org/books/OL28203220M"
     },
     "issueNumber": 44,
-    "progressPercent": 0,
+    "progressPercent": 100,
     "read": 100,
     "abandoned": false,
     "state": "completed",
@@ -1410,7 +1410,7 @@
       "canonical": "https://openlibrary.org/books/OL60903099M"
     },
     "issueNumber": 45,
-    "progressPercent": 0,
+    "progressPercent": 100,
     "read": 100,
     "abandoned": false,
     "state": "completed",
@@ -1443,7 +1443,7 @@
       "canonical": "https://openlibrary.org/books/OL60053657M"
     },
     "issueNumber": 46,
-    "progressPercent": 0,
+    "progressPercent": 100,
     "read": 100,
     "abandoned": false,
     "state": "completed",
@@ -1485,7 +1485,7 @@
       "canonical": "https://openlibrary.org/books/OL24987973M"
     },
     "issueNumber": 47,
-    "progressPercent": 0,
+    "progressPercent": 100,
     "read": 100,
     "abandoned": false,
     "state": "completed",
