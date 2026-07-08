@@ -14,8 +14,9 @@ Book tracker powered by [Bookshelf Action](https://github.com/bhaumikmistry/book
 ## My bookshelf
 
 <!--start:bookshelf-action-->
-### ⌛ Currently reading (1)
+### ⌛ Currently reading (2)
 
+[![Norwegian Wood](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F2237620-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/11 "Norwegian Wood by 村上春樹")
 [![Feel-Good Productivity](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F14635414-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/10 "Feel-Good Productivity by Ali Abdaal")
 
 <!--end:bookshelf-action-->
