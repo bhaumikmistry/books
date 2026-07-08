@@ -21,7 +21,11 @@
     "issueNumber": 46,
     "progressPercent": 0,
     "state": "reading",
-    "startedAt": "2026-07-08T19:00:45.000Z"
+    "startedAt": "2026-07-08T19:00:45.000Z",
+    "rating": 4.3,
+    "userCategories": [
+      "2026"
+    ]
   },
   {
     "title": "Night Creatures : Firefly",
@@ -48,7 +52,11 @@
     "issueNumber": 45,
     "progressPercent": 0,
     "state": "reading",
-    "startedAt": "2026-07-08T19:00:09.000Z"
+    "startedAt": "2026-07-08T19:00:09.000Z",
+    "rating": 4.2,
+    "userCategories": [
+      "2026"
+    ]
   },
   {
     "title": "Vegetariana / the Vegetarian",
@@ -74,7 +82,11 @@
     "issueNumber": 43,
     "progressPercent": 0,
     "state": "reading",
-    "startedAt": "2026-07-08T18:58:57.000Z"
+    "startedAt": "2026-07-08T18:58:57.000Z",
+    "rating": 4.1,
+    "userCategories": [
+      "2025"
+    ]
   },
   {
     "title": "Together",
@@ -103,8 +115,10 @@
     "progressPercent": 0,
     "state": "reading",
     "startedAt": "2026-07-08T18:58:20.000Z",
+    "rating": 4.2,
     "userCategories": [
-      "graphic arts"
+      "graphic arts",
+      "2025"
     ]
   },
   {
@@ -131,7 +145,11 @@
     "issueNumber": 41,
     "progressPercent": 0,
     "state": "reading",
-    "startedAt": "2026-07-08T18:57:44.000Z"
+    "startedAt": "2026-07-08T18:57:44.000Z",
+    "rating": 4.2,
+    "userCategories": [
+      "2025"
+    ]
   },
   {
     "title": "Extreme ownership",
@@ -165,12 +183,14 @@
     "progressPercent": 0,
     "state": "reading",
     "startedAt": "2026-07-08T18:57:08.000Z",
+    "rating": 4.3,
     "userCategories": [
       "leadership",
       "united states",
       "united states navy sea ls task unit b...",
       "american personal narratives",
-      "campaigns"
+      "campaigns",
+      "2024"
     ]
   },
   {
@@ -202,12 +222,14 @@
     "progressPercent": 0,
     "state": "reading",
     "startedAt": "2026-07-08T18:56:32.000Z",
+    "rating": 4.3,
     "userCategories": [
       "money",
       "consumption economics",
       "quality of life",
       "attitude change",
-      "accounting"
+      "accounting",
+      "2024"
     ]
   },
   {
@@ -242,12 +264,14 @@
     "progressPercent": 0,
     "state": "reading",
     "startedAt": "2026-07-08T18:55:56.000Z",
+    "rating": 4.3,
     "userCategories": [
       "fiction",
       "fiction classics",
       "contemporary fiction",
       "racial segregation",
-      "mob mentality"
+      "mob mentality",
+      "2024"
     ]
   },
   {
@@ -280,12 +304,15 @@
     "progressPercent": 0,
     "state": "reading",
     "startedAt": "2026-07-08T18:55:20.000Z",
+    "rating": 4,
     "userCategories": [
       "fiction",
       "literature",
       "continental european fiction fictiona...",
       "fiction short stories single author",
-      "translations into english"
+      "translations into english",
+      "favorites",
+      "2025"
     ]
   },
   {
@@ -315,8 +342,10 @@
     "progressPercent": 0,
     "state": "reading",
     "startedAt": "2026-07-08T18:54:44.000Z",
+    "rating": 4.2,
     "userCategories": [
-      "recreation"
+      "recreation",
+      "2025"
     ]
   },
   {
@@ -341,7 +370,11 @@
     "issueNumber": 35,
     "progressPercent": 0,
     "state": "reading",
-    "startedAt": "2026-07-08T18:54:08.000Z"
+    "startedAt": "2026-07-08T18:54:08.000Z",
+    "rating": 4.1,
+    "userCategories": [
+      "2025"
+    ]
   },
   {
     "title": "Days at the Morisaki Bookshop",
@@ -368,7 +401,12 @@
     "issueNumber": 34,
     "progressPercent": 0,
     "state": "reading",
-    "startedAt": "2026-07-08T18:53:32.000Z"
+    "startedAt": "2026-07-08T18:53:32.000Z",
+    "rating": 4.3,
+    "userCategories": [
+      "favorites",
+      "2026"
+    ]
   },
   {
     "title": "Trailblazer",
@@ -403,12 +441,14 @@
     "progressPercent": 0,
     "state": "reading",
     "startedAt": "2026-07-08T18:52:20.000Z",
+    "rating": 4.1,
     "userCategories": [
       "new york times bestseller",
       "nyt advice how to and miscellaneous 2...",
       "social responsibility of business",
       "leadership",
-      "customer relations"
+      "customer relations",
+      "older"
     ]
   },
   {
@@ -439,8 +479,10 @@
     "progressPercent": 0,
     "state": "reading",
     "startedAt": "2026-07-08T18:51:44.000Z",
+    "rating": 4,
     "userCategories": [
-      "non classifiable"
+      "non classifiable",
+      "older"
     ]
   },
   {
@@ -475,12 +517,14 @@
     "progressPercent": 0,
     "state": "reading",
     "startedAt": "2026-07-08T18:51:07.000Z",
+    "rating": 3.9,
     "userCategories": [
       "irish americans",
       "self realization in fiction",
       "families",
       "irish americans in fiction",
-      "families in fiction"
+      "families in fiction",
+      "older"
     ]
   },
   {
@@ -515,12 +559,14 @@
     "progressPercent": 0,
     "state": "reading",
     "startedAt": "2026-07-08T18:50:31.000Z",
+    "rating": 4.4,
     "userCategories": [
       "man woman relationships fiction",
       "oral reading",
       "older people",
       "ancianos",
-      "novela"
+      "novela",
+      "older"
     ]
   },
   {
@@ -553,12 +599,14 @@
     "progressPercent": 0,
     "state": "reading",
     "startedAt": "2026-07-08T18:49:55.000Z",
+    "rating": 4.1,
     "userCategories": [
       "love and romance",
       "ability",
       "resistance to government",
       "juvenile fiction",
-      "ungdomslitteratur"
+      "ungdomslitteratur",
+      "older"
     ]
   },
   {
@@ -583,7 +631,11 @@
     "issueNumber": 27,
     "progressPercent": 0,
     "state": "reading",
-    "startedAt": "2026-07-08T18:49:19.000Z"
+    "startedAt": "2026-07-08T18:49:19.000Z",
+    "rating": 4.2,
+    "userCategories": [
+      "older"
+    ]
   },
   {
     "title": "Norwegian Wood",
@@ -614,12 +666,15 @@
     "progressPercent": 0,
     "state": "reading",
     "startedAt": "2026-07-08T18:48:43.000Z",
+    "rating": 4.3,
     "userCategories": [
       "student",
       "theaterwissenschaft",
       "liebesbeziehung",
       "belletristische darstellung",
-      "fiction romance general"
+      "fiction romance general",
+      "favorites",
+      "older"
     ]
   },
   {
@@ -652,12 +707,15 @@
     "progressPercent": 0,
     "state": "reading",
     "startedAt": "2026-07-08T18:48:07.000Z",
+    "rating": 4.4,
     "userCategories": [
       "cosmologie",
       "temps duree",
       "espace temps",
       "vulgarisation scientifique",
-      "univers"
+      "univers",
+      "favorites",
+      "older"
     ]
   },
   {
@@ -684,7 +742,11 @@
     "issueNumber": 24,
     "progressPercent": 0,
     "state": "reading",
-    "startedAt": "2026-07-08T18:47:31.000Z"
+    "startedAt": "2026-07-08T18:47:31.000Z",
+    "rating": 4,
+    "userCategories": [
+      "older"
+    ]
   },
   {
     "title": "JS & the times of my life",
@@ -715,9 +777,11 @@
     "progressPercent": 0,
     "state": "reading",
     "startedAt": "2026-07-08T18:46:55.000Z",
+    "rating": 4.1,
     "userCategories": [
       "journalists",
-      "biography"
+      "biography",
+      "older"
     ]
   },
   {
@@ -749,12 +813,14 @@
     "progressPercent": 0,
     "state": "reading",
     "startedAt": "2026-07-08T18:46:19.000Z",
+    "rating": 4.2,
     "userCategories": [
       "fiction",
       "indic mythology",
       "siva hindu deity",
       "fiction fantasy general",
-      "india fiction"
+      "india fiction",
+      "older"
     ]
   },
   {
@@ -787,10 +853,12 @@
     "progressPercent": 0,
     "state": "reading",
     "startedAt": "2026-07-08T18:45:42.000Z",
+    "rating": 4,
     "userCategories": [
       "fiction",
       "hindu mythology",
-      "rama hindu deity"
+      "rama hindu deity",
+      "older"
     ]
   },
   {
@@ -819,9 +887,11 @@
     "progressPercent": 0,
     "state": "reading",
     "startedAt": "2026-07-08T18:45:06.000Z",
+    "rating": 4.1,
     "userCategories": [
       "fiction",
-      "hindu mythology"
+      "hindu mythology",
+      "older"
     ]
   },
   {
@@ -855,12 +925,14 @@
     "progressPercent": 0,
     "state": "reading",
     "startedAt": "2026-07-08T18:44:30.000Z",
+    "rating": 4.2,
     "userCategories": [
       "fiction",
       "english literature",
       "blessing and cursing",
       "pirates",
-      "hindu mythology"
+      "hindu mythology",
+      "older"
     ]
   },
   {
@@ -894,12 +966,14 @@
     "progressPercent": 0,
     "state": "reading",
     "startedAt": "2026-07-08T18:43:54.000Z",
+    "rating": 4,
     "userCategories": [
       "fiction",
       "guitarists",
       "nyt combined print and e book fiction...",
       "new york times bestseller",
-      "fiction visionary and metaphysical"
+      "fiction visionary and metaphysical",
+      "older"
     ]
   },
   {
@@ -932,12 +1006,14 @@
     "progressPercent": 0,
     "state": "reading",
     "startedAt": "2026-07-08T18:43:18.000Z",
+    "rating": 4.3,
     "userCategories": [
       "rainforests",
       "prisoners of war",
       "labor camps",
       "land mines",
-      "argyria"
+      "argyria",
+      "older"
     ]
   },
   {
@@ -965,7 +1041,11 @@
     "issueNumber": 16,
     "progressPercent": 0,
     "state": "reading",
-    "startedAt": "2026-07-08T18:42:42.000Z"
+    "startedAt": "2026-07-08T18:42:42.000Z",
+    "rating": 4.1,
+    "userCategories": [
+      "older"
+    ]
   },
   {
     "title": "For One More Day",
@@ -996,12 +1076,14 @@
     "progressPercent": 0,
     "state": "reading",
     "startedAt": "2026-07-08T18:42:04.000Z",
+    "rating": 4.2,
     "userCategories": [
       "fiction",
       "future life",
       "suicidal behavior",
       "mothers and sons fiction",
-      "fiction psychological"
+      "fiction psychological",
+      "older"
     ]
   },
   {
@@ -1033,12 +1115,15 @@
     "progressPercent": 0,
     "state": "reading",
     "startedAt": "2026-07-08T18:41:28.000Z",
+    "rating": 4.5,
     "userCategories": [
       "goldfinch",
       "fiction",
       "self realization",
       "loss psychology",
-      "artists"
+      "artists",
+      "favorites",
+      "older"
     ]
   }
 ]
