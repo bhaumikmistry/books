@@ -14,8 +14,9 @@ Book tracker powered by [Bookshelf Action](https://github.com/bhaumikmistry/book
 ## My bookshelf
 
 <!--start:bookshelf-action-->
-### ⌛ Currently reading (27)
+### ⌛ Currently reading (28)
 
+[![Together](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F14784561-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/42 "Together by Luke Adam Hawker")
 [![Last Tree](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F14752345-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/41 "Last Tree by Luke Adam Hawker")
 [![Extreme ownership](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F12835042-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/40 "Extreme ownership by Jocko Willink")
 [![The Psychology of Money](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F15215449-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/39 "The Psychology of Money by ")

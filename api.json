@@ -1,5 +1,36 @@
 [
   {
+    "title": "Together",
+    "authors": [
+      "Luke Adam Hawker"
+    ],
+    "publisher": "Octopus Publishing Group",
+    "publishedDate": "2021",
+    "description": "",
+    "image": "https://covers.openlibrary.org/b/id/14784561-L.jpg",
+    "language": "en",
+    "averageRating": 0,
+    "ratingsCount": 0,
+    "categories": [
+      "Graphic arts"
+    ],
+    "pageCount": 64,
+    "isbn13": "9780857839442",
+    "googleBooks": {
+      "id": "OL29531882M",
+      "preview": "https://openlibrary.org/books/OL29531882M",
+      "info": "https://openlibrary.org/books/OL29531882M",
+      "canonical": "https://openlibrary.org/books/OL29531882M"
+    },
+    "issueNumber": 42,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2026-07-08T18:58:20.000Z",
+    "userCategories": [
+      "graphic arts"
+    ]
+  },
+  {
     "title": "Last Tree",
     "authors": [
       "Luke Adam Hawker"
