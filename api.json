@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "title": "The Goldfinch",
+    "authors": [],
+    "publisher": "Little, Brown and Company",
+    "publishedDate": "2013",
+    "description": "\"The Goldfinch is a rarity that comes along perhaps half a dozen times per decade, a smartly written literary novel that connects with the heart as well as the mind....Donna Tartt has delivered an extraordinary work of fiction.\"--Stephen King, The New York Times Book Review\r\n\r\nComposed with the skills of a master, The Goldfinch is a haunted odyssey through present day America and a drama of enthralling force and acuity.\r\n\r\nIt begins with a boy. Theo Decker, a thirteen-year-old New Yorker, miracu",
+    "image": "https://covers.openlibrary.org/b/id/7267111-L.jpg",
+    "language": "en",
+    "averageRating": 0,
+    "ratingsCount": 0,
+    "categories": [
+      "goldfinch",
+      "Fiction",
+      "Self-realization",
+      "Loss (Psychology)",
+      "Artists"
+    ],
+    "pageCount": 771,
+    "isbn13": "9780316055437",
+    "googleBooks": {
+      "id": "OL25434599M",
+      "preview": "https://openlibrary.org/books/OL25434599M",
+      "info": "https://openlibrary.org/books/OL25434599M",
+      "canonical": "https://openlibrary.org/books/OL25434599M"
+    },
+    "issueNumber": 14,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2026-07-08T18:41:28.000Z"
+  }
+]
