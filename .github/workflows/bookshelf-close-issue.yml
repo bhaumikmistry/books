@@ -15,19 +15,8 @@ jobs:
         with:
           token: ${{ github.token }}
       - name: Run Bookshelf Action
-        uses: AnandChowdhary/bookshelf-action@HEAD
+        uses: bhaumikmistry/bookshelf-action@master
         with:
           command: "onCloseIssue"
         env:
           GITHUB_TOKEN: ${{ github.token }}
-      - name: Delay for 10 seconds
-        if: github.repository == 'AnandChowdhary/books'
-        run: sleep 10
-      - name: Dispatch AnandChowdhary/everything update
-        if: github.repository == 'AnandChowdhary/books'
-        continue-on-error: true
-        uses: benc-uk/workflow-dispatch@v1.2.2
-        with:
-          repo: AnandChowdhary/everything
-          workflow: api.yml
-          token: ${{ secrets.WORKFLOW_DISPATCH_TOKEN }}
