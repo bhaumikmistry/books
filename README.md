@@ -14,15 +14,12 @@ Book tracker powered by [Bookshelf Action](https://github.com/bhaumikmistry/book
 ## My bookshelf
 
 <!--start:bookshelf-action-->
-### ⌛ Currently reading (4)
+### ✅ Completed (33)
 
-[![The Five People You Meet in Heaven](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F12884239-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/17 "The Five People You Meet in Heaven by ")
-[![Chanakya's Chant](https://images.weserv.nl/?url=https%3A%2F%2Fi.gr-assets.com%2Fimages%2FS%2Fcompressed.photo.goodreads.com%2Fbooks%2F1327939570i%2F10098912.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/16 "Chanakya's Chant by Ashwin Sanghi")
-[![For One More Day](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F12794158-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/15 "For One More Day by ")
-[![The Goldfinch](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F7267111-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/14 "The Goldfinch by ")
-
-### ✅ Completed (29)
-
+[![The Goldfinch](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F7267111-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/14 "The Goldfinch by  completed in 1 hour on July 2026")
+[![For One More Day](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F12794158-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/15 "For One More Day by  completed in 1 hour on July 2026")
+[![Chanakya's Chant](https://images.weserv.nl/?url=https%3A%2F%2Fi.gr-assets.com%2Fimages%2FS%2Fcompressed.photo.goodreads.com%2Fbooks%2F1327939570i%2F10098912.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/16 "Chanakya's Chant by Ashwin Sanghi completed in 1 hour on July 2026")
+[![The Five People You Meet in Heaven](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F12884239-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/17 "The Five People You Meet in Heaven by  completed in 1 hour on July 2026")
 [![Magic Strings of Frankie Presto](https://images.weserv.nl/?url=https%3A%2F%2Fi.gr-assets.com%2Fimages%2FS%2Fcompressed.photo.goodreads.com%2Fbooks%2F1477323385i%2F32735857.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/18 "Magic Strings of Frankie Presto by Mitch Albom completed in 1 hour on July 2026")
 [![Raavan](https://images.weserv.nl/?url=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FS%2Fcompressed.photo.goodreads.com%2Fbooks%2F1559568404i%2F46138026.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/19 "Raavan by Amish Tripathi completed in 1 hour on July 2026")
 [![Sita](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F8789619-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/20 "Sita by  completed in 1 hour on July 2026")
