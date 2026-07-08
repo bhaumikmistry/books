@@ -14,8 +14,9 @@ Book tracker powered by [Bookshelf Action](https://github.com/bhaumikmistry/book
 ## My bookshelf
 
 <!--start:bookshelf-action-->
-### ⌛ Currently reading (7)
+### ⌛ Currently reading (8)
 
+[![Ram - Scion of Ikshvaku](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F9386877-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/21 "Ram - Scion of Ikshvaku by Amish Tripathi")
 [![Sita](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F8789619-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/20 "Sita by ")
 [![Raavan](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Folid%2FOL28734635M-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/19 "Raavan by Amish Tripathi")
 [![Magic Strings of Frankie Presto](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Folid%2FOL29716612M-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/18 "Magic Strings of Frankie Presto by Mitch Albom")

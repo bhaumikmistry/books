@@ -1,5 +1,36 @@
 [
   {
+    "title": "Ram - Scion of Ikshvaku",
+    "authors": [
+      "Amish Tripathi"
+    ],
+    "publisher": "Westland",
+    "publishedDate": "Jun 22, 2015",
+    "description": "Novel based on the life of Rāma, Hindu deity.",
+    "image": "https://covers.openlibrary.org/b/id/9386877-L.jpg",
+    "language": "en",
+    "averageRating": 0,
+    "ratingsCount": 0,
+    "categories": [
+      "Hindu mythology",
+      "Fiction",
+      "Rāma (Hindu deity)"
+    ],
+    "pageCount": 378,
+    "isbn10": "9385152149",
+    "isbn13": "9789385152146",
+    "googleBooks": {
+      "id": "OL28002240M",
+      "preview": "https://openlibrary.org/books/OL28002240M",
+      "info": "https://openlibrary.org/books/OL28002240M",
+      "canonical": "https://openlibrary.org/books/OL28002240M"
+    },
+    "issueNumber": 21,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2026-07-08T18:45:42.000Z"
+  },
+  {
     "title": "Sita",
     "authors": [],
     "publisher": "Westland",
