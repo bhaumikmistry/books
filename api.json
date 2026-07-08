@@ -1,5 +1,45 @@
 [
   {
+    "title": "The Notebook",
+    "authors": [
+      "Nicholas Sparks"
+    ],
+    "publisher": "Warner Books",
+    "publishedDate": "February 1, 2004",
+    "description": "A man with a faded, well-worn notebook open in his lap. A woman experiencing a morning ritual she doesn't understand. Until he begins to read to her. An achingly tender story about the enduring power of love.\r\n\r\nA man with a faded, well-worn notebook open in his lap. A woman experiencing a morning ritual she doesn't understand. Until he begins to read to her. The Notebook is an achingly tender story about the enduring power of love, a story of miracles that will stay with you forever. \r\n\r\nSet am",
+    "image": "https://covers.openlibrary.org/b/id/6305115-L.jpg",
+    "language": "en",
+    "averageRating": 0,
+    "ratingsCount": 0,
+    "categories": [
+      "Man-woman relationships, fiction",
+      "Oral reading",
+      "Older people",
+      "Ancianos",
+      "Novela"
+    ],
+    "pageCount": 239,
+    "isbn10": "0446605239",
+    "isbn13": "9780446605236",
+    "googleBooks": {
+      "id": "OL7537503M",
+      "preview": "https://openlibrary.org/books/OL7537503M",
+      "info": "https://openlibrary.org/books/OL7537503M",
+      "canonical": "https://openlibrary.org/books/OL7537503M"
+    },
+    "issueNumber": 29,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2026-07-08T18:50:31.000Z",
+    "userCategories": [
+      "man woman relationships fiction",
+      "oral reading",
+      "older people",
+      "ancianos",
+      "novela"
+    ]
+  },
+  {
     "title": "Red Queen",
     "authors": [],
     "publisher": "Orion Books",
