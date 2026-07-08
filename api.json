@@ -35,6 +35,41 @@
     ]
   },
   {
+    "title": "Tales from the Cafe",
+    "authors": [
+      "川口俊和",
+      "Sunmark Publishing, Inc., Inc."
+    ],
+    "publisher": "Harlequin Enterprises ULC",
+    "publishedDate": "2021",
+    "description": "",
+    "image": "https://covers.openlibrary.org/b/id/12198651-L.jpg",
+    "language": "en",
+    "averageRating": 0,
+    "ratingsCount": 0,
+    "categories": [
+      "Coffeehouses",
+      "Fiction",
+      "Time travel",
+      "Interpersonal relations",
+      "Voyages dans le temps"
+    ],
+    "pageCount": 0,
+    "isbn13": "9781335630988",
+    "googleBooks": {
+      "id": "OL34975540M",
+      "preview": "https://openlibrary.org/books/OL34975540M",
+      "info": "https://openlibrary.org/books/OL34975540M",
+      "canonical": "https://openlibrary.org/books/OL34975540M"
+    },
+    "issueNumber": 48,
+    "progressPercent": 0,
+    "read": 0,
+    "abandoned": false,
+    "state": "reading",
+    "startedAt": "2026-07-08T19:55:26.000Z"
+  },
+  {
     "title": "The Goldfinch",
     "authors": [],
     "publisher": "Little, Brown and Company",

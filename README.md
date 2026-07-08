@@ -14,9 +14,10 @@ Book tracker powered by [Bookshelf Action](https://github.com/bhaumikmistry/book
 ## My bookshelf
 
 <!--start:bookshelf-action-->
-### ⌛ Currently reading (1)
+### ⌛ Currently reading (2)
 
 [![More Days at the Morisaki Bookshop](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F15235502-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/50 "More Days at the Morisaki Bookshop by Satoshi Yagisawa")
+[![Tales from the Cafe](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F12198651-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/48 "Tales from the Cafe by 川口俊和, Sunmark Publishing, Inc., Inc.")
 
 ### ✅ Completed (33)
 
