@@ -1,5 +1,42 @@
 [
   {
+    "title": "Norwegian Wood",
+    "authors": [],
+    "publisher": "Vintage",
+    "publishedDate": "2000",
+    "description": "As his plane lands at a European airport, thirty-seven-year-old Toru Watanabe casually hears an old Beatles song. Suddenly, the music transports him back to his youth, to the turbulent Tokyo of the late sixties. He then remembers, with melancholy and unease, the unstable and mysterious Naoko, the girlfriend of his best—and only—friend from adolescence, Kizuki, and how Kizuki's suicide distanced them for a year until they reunited at university. There, they began an intimate relationship, which w",
+    "image": "https://covers.openlibrary.org/b/id/6376119-L.jpg",
+    "language": "en",
+    "averageRating": 0,
+    "ratingsCount": 0,
+    "categories": [
+      "Student",
+      "Theaterwissenschaft",
+      "Liebesbeziehung",
+      "Belletristische Darstellung",
+      "Fiction, romance, general"
+    ],
+    "pageCount": 298,
+    "isbn10": "0375704027",
+    "googleBooks": {
+      "id": "OL24196635M",
+      "preview": "https://openlibrary.org/books/OL24196635M",
+      "info": "https://openlibrary.org/books/OL24196635M",
+      "canonical": "https://openlibrary.org/books/OL24196635M"
+    },
+    "issueNumber": 26,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2026-07-08T18:48:43.000Z",
+    "userCategories": [
+      "student",
+      "theaterwissenschaft",
+      "liebesbeziehung",
+      "belletristische darstellung",
+      "fiction romance general"
+    ]
+  },
+  {
     "title": "A Brief History of Time",
     "authors": [],
     "publisher": "andom House Publishing Group",
@@ -28,7 +65,14 @@
     "issueNumber": 25,
     "progressPercent": 0,
     "state": "reading",
-    "startedAt": "2026-07-08T18:48:07.000Z"
+    "startedAt": "2026-07-08T18:48:07.000Z",
+    "userCategories": [
+      "cosmologie",
+      "temps duree",
+      "espace temps",
+      "vulgarisation scientifique",
+      "univers"
+    ]
   },
   {
     "title": "Oath of the Vayuputras (Shiva Trilogy Book 3)",
@@ -84,7 +128,11 @@
     "issueNumber": 23,
     "progressPercent": 0,
     "state": "reading",
-    "startedAt": "2026-07-08T18:46:55.000Z"
+    "startedAt": "2026-07-08T18:46:55.000Z",
+    "userCategories": [
+      "journalists",
+      "biography"
+    ]
   },
   {
     "title": "The Immortals of Meluha",
@@ -114,7 +162,14 @@
     "issueNumber": 22,
     "progressPercent": 0,
     "state": "reading",
-    "startedAt": "2026-07-08T18:46:19.000Z"
+    "startedAt": "2026-07-08T18:46:19.000Z",
+    "userCategories": [
+      "fiction",
+      "indic mythology",
+      "siva hindu deity",
+      "fiction fantasy general",
+      "india fiction"
+    ]
   },
   {
     "title": "Ram - Scion of Ikshvaku",
@@ -145,7 +200,12 @@
     "issueNumber": 21,
     "progressPercent": 0,
     "state": "reading",
-    "startedAt": "2026-07-08T18:45:42.000Z"
+    "startedAt": "2026-07-08T18:45:42.000Z",
+    "userCategories": [
+      "fiction",
+      "hindu mythology",
+      "rama hindu deity"
+    ]
   },
   {
     "title": "Sita",
@@ -172,7 +232,11 @@
     "issueNumber": 20,
     "progressPercent": 0,
     "state": "reading",
-    "startedAt": "2026-07-08T18:45:06.000Z"
+    "startedAt": "2026-07-08T18:45:06.000Z",
+    "userCategories": [
+      "fiction",
+      "hindu mythology"
+    ]
   },
   {
     "title": "Raavan",
@@ -204,7 +268,14 @@
     "issueNumber": 19,
     "progressPercent": 0,
     "state": "reading",
-    "startedAt": "2026-07-08T18:44:30.000Z"
+    "startedAt": "2026-07-08T18:44:30.000Z",
+    "userCategories": [
+      "fiction",
+      "english literature",
+      "blessing and cursing",
+      "pirates",
+      "hindu mythology"
+    ]
   },
   {
     "title": "Magic Strings of Frankie Presto",
@@ -236,7 +307,14 @@
     "issueNumber": 18,
     "progressPercent": 0,
     "state": "reading",
-    "startedAt": "2026-07-08T18:43:54.000Z"
+    "startedAt": "2026-07-08T18:43:54.000Z",
+    "userCategories": [
+      "fiction",
+      "guitarists",
+      "nyt combined print and e book fiction...",
+      "new york times bestseller",
+      "fiction visionary and metaphysical"
+    ]
   },
   {
     "title": "The Five People You Meet in Heaven",
@@ -267,7 +345,14 @@
     "issueNumber": 17,
     "progressPercent": 0,
     "state": "reading",
-    "startedAt": "2026-07-08T18:43:18.000Z"
+    "startedAt": "2026-07-08T18:43:18.000Z",
+    "userCategories": [
+      "rainforests",
+      "prisoners of war",
+      "labor camps",
+      "land mines",
+      "argyria"
+    ]
   },
   {
     "title": "Chanakya's Chant",
@@ -324,7 +409,14 @@
     "issueNumber": 15,
     "progressPercent": 0,
     "state": "reading",
-    "startedAt": "2026-07-08T18:42:04.000Z"
+    "startedAt": "2026-07-08T18:42:04.000Z",
+    "userCategories": [
+      "fiction",
+      "future life",
+      "suicidal behavior",
+      "mothers and sons fiction",
+      "fiction psychological"
+    ]
   },
   {
     "title": "The Goldfinch",
@@ -354,6 +446,13 @@
     "issueNumber": 14,
     "progressPercent": 0,
     "state": "reading",
-    "startedAt": "2026-07-08T18:41:28.000Z"
+    "startedAt": "2026-07-08T18:41:28.000Z",
+    "userCategories": [
+      "goldfinch",
+      "fiction",
+      "self realization",
+      "loss psychology",
+      "artists"
+    ]
   }
 ]
