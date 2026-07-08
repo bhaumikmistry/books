@@ -1,5 +1,32 @@
 [
   {
+    "title": "Sita",
+    "authors": [],
+    "publisher": "Westland",
+    "publishedDate": "2017",
+    "description": "",
+    "image": "https://covers.openlibrary.org/b/id/8789619-L.jpg",
+    "language": "en",
+    "averageRating": 0,
+    "ratingsCount": 0,
+    "categories": [
+      "Fiction",
+      "Hindu mythology"
+    ],
+    "pageCount": 384,
+    "isbn13": "9789386224583",
+    "googleBooks": {
+      "id": "OL26350903M",
+      "preview": "https://openlibrary.org/books/OL26350903M",
+      "info": "https://openlibrary.org/books/OL26350903M",
+      "canonical": "https://openlibrary.org/books/OL26350903M"
+    },
+    "issueNumber": 20,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2026-07-08T18:45:06.000Z"
+  },
+  {
     "title": "Raavan",
     "authors": [
       "Amish Tripathi"
