@@ -1,5 +1,32 @@
 [
   {
+    "title": "Days at the Morisaki Bookshop",
+    "authors": [
+      "Satoshi Yagisawa",
+      "Eric Ozawa"
+    ],
+    "publisher": "HarperCollins Publishers",
+    "publishedDate": "2023",
+    "description": "Esta é uma história em que a magia dos livros, a paixão pelas coisas simples e belas e a elegância japonesa se unem para nos tocar a alma e o coração.\r\n\r\nEstamos em Jimbocho, o bairro das livrarias de Tóquio, um paraíso para leitores. Aqui, o tempo não se mede da mesma maneira e a tranquilidade contrasta com o bulício do metro, ali ao lado, e com os desmesurados prédios modernos que traçam linhas retas no céu.\r\n\r\nMas há quem não conheça este bairro. Takako, uma rapariga de 25 anos, com uma exist",
+    "image": "https://covers.openlibrary.org/b/id/13482084-L.jpg",
+    "language": "en",
+    "averageRating": 0,
+    "ratingsCount": 0,
+    "categories": [],
+    "pageCount": 160,
+    "isbn13": "9780063278677",
+    "googleBooks": {
+      "id": "OL40163582M",
+      "preview": "https://openlibrary.org/books/OL40163582M",
+      "info": "https://openlibrary.org/books/OL40163582M",
+      "canonical": "https://openlibrary.org/books/OL40163582M"
+    },
+    "issueNumber": 34,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2026-07-08T18:53:32.000Z"
+  },
+  {
     "title": "Trailblazer",
     "authors": [
       "Marc Benioff",
