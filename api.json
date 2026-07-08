@@ -1,5 +1,35 @@
 [
   {
+    "title": "For One More Day",
+    "authors": [],
+    "publisher": "Hyperion",
+    "publishedDate": "2006",
+    "description": "In an inspirational debut novel by the author of Tuesdays with Morrie, Charles \"Chick\" Benetto, grieving over the death of his mother, uses alcohol as a crutch to deal with his loneliness, isolation, and depression and the disintegration of his life, until an encounter with his mother's ghost brings him new awareness and leads him to attempt to put his life back together.",
+    "image": "https://covers.openlibrary.org/b/id/12794158-L.jpg",
+    "language": "en",
+    "averageRating": 0,
+    "ratingsCount": 0,
+    "categories": [
+      "Future life",
+      "Fiction",
+      "Suicidal behavior",
+      "Mothers and sons, fiction",
+      "Fiction, psychological"
+    ],
+    "pageCount": 0,
+    "isbn10": "1401303277",
+    "googleBooks": {
+      "id": "OL38247234M",
+      "preview": "https://openlibrary.org/books/OL38247234M",
+      "info": "https://openlibrary.org/books/OL38247234M",
+      "canonical": "https://openlibrary.org/books/OL38247234M"
+    },
+    "issueNumber": 15,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2026-07-08T18:42:04.000Z"
+  },
+  {
     "title": "The Goldfinch",
     "authors": [],
     "publisher": "Little, Brown and Company",
