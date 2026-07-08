@@ -1,5 +1,36 @@
 [
   {
+    "title": "The Five People You Meet in Heaven",
+    "authors": [],
+    "publisher": "Hyperion",
+    "publishedDate": "2003",
+    "description": "The Five People You Meet In Heaven is a 2003 novel by Mitch Albom. It follows the life and death of a ride mechanic named Eddie who is killed in an amusement park accident and sent to heaven, where he encounters five people who had a significant impact on him while he was alive. It was published by Hyperion and remained on the New York Times Best Seller list for 95 weeks.",
+    "image": "https://covers.openlibrary.org/b/id/12884239-L.jpg",
+    "language": "en",
+    "averageRating": 0,
+    "ratingsCount": 0,
+    "categories": [
+      "Rainforests",
+      "prisoners of war",
+      "labor camps",
+      "land mines",
+      "argyria"
+    ],
+    "pageCount": 196,
+    "isbn10": "0786868716",
+    "isbn13": "9780786868711",
+    "googleBooks": {
+      "id": "OL39480298M",
+      "preview": "https://openlibrary.org/books/OL39480298M",
+      "info": "https://openlibrary.org/books/OL39480298M",
+      "canonical": "https://openlibrary.org/books/OL39480298M"
+    },
+    "issueNumber": 17,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2026-07-08T18:43:18.000Z"
+  },
+  {
     "title": "Chanakya's Chant",
     "authors": [
       "Ashwin Sanghi"

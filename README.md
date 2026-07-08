@@ -14,8 +14,9 @@ Book tracker powered by [Bookshelf Action](https://github.com/bhaumikmistry/book
 ## My bookshelf
 
 <!--start:bookshelf-action-->
-### ⌛ Currently reading (3)
+### ⌛ Currently reading (4)
 
+[![The Five People You Meet in Heaven](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F12884239-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/17 "The Five People You Meet in Heaven by ")
 [![Chanakya's Chant](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Folid%2FOL37054129M-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/16 "Chanakya's Chant by Ashwin Sanghi")
 [![For One More Day](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F12794158-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/15 "For One More Day by ")
 [![The Goldfinch](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F7267111-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/14 "The Goldfinch by ")
