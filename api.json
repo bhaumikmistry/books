@@ -1,5 +1,36 @@
 [
   {
+    "title": "A Brief History of Time",
+    "authors": [],
+    "publisher": "andom House Publishing Group",
+    "publishedDate": "1998-09-01",
+    "description": "Stephen Hawking's ‘A Brief History of Time* has become an international publishing phenomenon. Translated into thirty languages, it has sold over ten million copies worldwide and lives on as a science book that continues to captivate and inspire new readers each year. When it was first published in 1988 the ideas discussed in it were at the cutting edge of what was then known about the universe. In the intervening twenty years there have been extraordinary advances in the technology of observing",
+    "image": "https://covers.openlibrary.org/b/id/14589690-L.jpg",
+    "language": "en",
+    "averageRating": 0,
+    "ratingsCount": 0,
+    "categories": [
+      "Cosmologie",
+      "Temps (durée)",
+      "Espace-temps",
+      "Vulgarisation scientifique",
+      "Univers"
+    ],
+    "pageCount": 0,
+    "isbn10": "0553380168",
+    "isbn13": "9780553380163",
+    "googleBooks": {
+      "id": "OL51162205M",
+      "preview": "https://openlibrary.org/books/OL51162205M",
+      "info": "https://openlibrary.org/books/OL51162205M",
+      "canonical": "https://openlibrary.org/books/OL51162205M"
+    },
+    "issueNumber": 25,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2026-07-08T18:48:07.000Z"
+  },
+  {
     "title": "Oath of the Vayuputras (Shiva Trilogy Book 3)",
     "authors": [
       "Amish Tripathi"
