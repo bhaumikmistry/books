@@ -14,8 +14,9 @@ Book tracker powered by [Bookshelf Action](https://github.com/bhaumikmistry/book
 ## My bookshelf
 
 <!--start:bookshelf-action-->
-### ⌛ Currently reading (20)
+### ⌛ Currently reading (21)
 
+[![Twice](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F15130697-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/35 "Twice by ")
 [![Days at the Morisaki Bookshop](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F13482084-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/34 "Days at the Morisaki Bookshop by Satoshi Yagisawa, Eric Ozawa")
 [![Trailblazer](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F13334032-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/32 "Trailblazer by Marc Benioff, Monica Langley")
 [![Wreck This Journal  Expanded Ed.](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F12587849-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/31 "Wreck This Journal  Expanded Ed. by Keri Smith")
