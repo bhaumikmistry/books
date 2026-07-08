@@ -14,6 +14,10 @@ Book tracker powered by [Bookshelf Action](https://github.com/bhaumikmistry/book
 ## My bookshelf
 
 <!--start:bookshelf-action-->
+### ⌛ Currently reading (1)
+
+[![More Days at the Morisaki Bookshop](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F15235502-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/50 "More Days at the Morisaki Bookshop by Satoshi Yagisawa")
+
 ### ✅ Completed (33)
 
 [![The Goldfinch](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F7267111-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/14 "The Goldfinch by  completed in 1 hour on July 2026")
