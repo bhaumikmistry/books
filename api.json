@@ -1,5 +1,31 @@
 [
   {
+    "title": "Oath of the Vayuputras (Shiva Trilogy Book 3)",
+    "authors": [
+      "Amish Tripathi"
+    ],
+    "publisher": "HarperCollins Publishers India",
+    "publishedDate": "2022",
+    "description": "",
+    "image": "https://covers.openlibrary.org/b/olid/OL40163590M-L.jpg",
+    "language": "en",
+    "averageRating": 0,
+    "ratingsCount": 0,
+    "categories": [],
+    "pageCount": 0,
+    "isbn13": "9789356290686",
+    "googleBooks": {
+      "id": "OL40163590M",
+      "preview": "https://openlibrary.org/books/OL40163590M",
+      "info": "https://openlibrary.org/books/OL40163590M",
+      "canonical": "https://openlibrary.org/books/OL40163590M"
+    },
+    "issueNumber": 24,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2026-07-08T18:47:31.000Z"
+  },
+  {
     "title": "JS & the times of my life",
     "authors": [
       "Jug Suraiya"

@@ -14,8 +14,9 @@ Book tracker powered by [Bookshelf Action](https://github.com/bhaumikmistry/book
 ## My bookshelf
 
 <!--start:bookshelf-action-->
-### ⌛ Currently reading (10)
+### ⌛ Currently reading (11)
 
+[![Oath of the Vayuputras (Shiva Trilogy Book 3)](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Folid%2FOL40163590M-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/24 "Oath of the Vayuputras (Shiva Trilogy Book 3) by Amish Tripathi")
 [![JS & the times of my life](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Folid%2FOL25095796M-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/23 "JS & the times of my life by Jug Suraiya")
 [![The Immortals of Meluha](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F11152324-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/22 "The Immortals of Meluha by ")
 [![Ram - Scion of Ikshvaku](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F9386877-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/21 "Ram - Scion of Ikshvaku by Amish Tripathi")
