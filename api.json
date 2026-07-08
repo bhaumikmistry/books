@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "title": "Feel-Good Productivity",
+    "authors": [
+      "Ali Abdaal"
+    ],
+    "publisher": "",
+    "publishedDate": "2023",
+    "description": "",
+    "image": "https://covers.openlibrary.org/b/id/14635414-L.jpg",
+    "language": "eng",
+    "averageRating": 0,
+    "ratingsCount": 0,
+    "categories": [],
+    "pageCount": 0,
+    "isbn13": "9783423263887",
+    "googleBooks": {
+      "id": "/works/OL34026833W",
+      "preview": "https://openlibrary.org/works/OL34026833W",
+      "info": "https://openlibrary.org/works/OL34026833W",
+      "canonical": "https://openlibrary.org/works/OL34026833W"
+    },
+    "issueNumber": 10,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2026-07-08T17:13:18.000Z"
+  }
+]
