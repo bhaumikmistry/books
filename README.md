@@ -16,7 +16,7 @@ Book tracker powered by [Bookshelf Action](https://github.com/bhaumikmistry/book
 <!--start:bookshelf-action-->
 ### ⌛ Currently reading (33)
 
-[![The Chola Tigers: Avengers of Somnath - A Historical Fiction by Amish](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Folid%2FOL60053657M-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/46 "The Chola Tigers: Avengers of Somnath - A Historical Fiction by Amish by ")
+[![The Chola Tigers: Avengers of Somnath - A Historical Fiction by Amish](https://images.weserv.nl/?url=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FS%2Fcompressed.photo.goodreads.com%2Fbooks%2F1753099145i%2F239115044.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/46 "The Chola Tigers: Avengers of Somnath - A Historical Fiction by Amish by ")
 [![Night Creatures : Firefly](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Folid%2FOL60903099M-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/45 "Night Creatures : Firefly by Robert Macfarlane, Luke Adam Hawker")
 [![Before the Coffee Gets Cold](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F10138333-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/44 "Before the Coffee Gets Cold by 川口俊和")
 [![Vegetariana / the Vegetarian](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F15182525-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/43 "Vegetariana / the Vegetarian by Han Kang")
