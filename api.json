@@ -1,5 +1,29 @@
 [
   {
+    "title": "My Gita",
+    "authors": [],
+    "publisher": "Rupa",
+    "publishedDate": "2015",
+    "description": "",
+    "image": "https://covers.openlibrary.org/b/id/15221897-L.jpg",
+    "language": "en",
+    "averageRating": 0,
+    "ratingsCount": 0,
+    "categories": [],
+    "pageCount": 0,
+    "isbn13": "9788129137708",
+    "googleBooks": {
+      "id": "OL61957426M",
+      "preview": "https://openlibrary.org/books/OL61957426M",
+      "info": "https://openlibrary.org/books/OL61957426M",
+      "canonical": "https://openlibrary.org/books/OL61957426M"
+    },
+    "issueNumber": 27,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2026-07-08T18:49:19.000Z"
+  },
+  {
     "title": "Norwegian Wood",
     "authors": [],
     "publisher": "Vintage",
