@@ -14,8 +14,9 @@ Book tracker powered by [Bookshelf Action](https://github.com/bhaumikmistry/book
 ## My bookshelf
 
 <!--start:bookshelf-action-->
-### ⌛ Currently reading (22)
+### ⌛ Currently reading (23)
 
+[![The Metamorphosis and Other Stories](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F6889547-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/37 "The Metamorphosis and Other Stories by ")
 [![Revolution](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Folid%2FOL48678300M-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/36 "Revolution by Charles Watts")
 [![Twice](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F15130697-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/35 "Twice by ")
 [![Days at the Morisaki Bookshop](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F13482084-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/34 "Days at the Morisaki Bookshop by Satoshi Yagisawa, Eric Ozawa")
