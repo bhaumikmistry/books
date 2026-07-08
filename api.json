@@ -1,5 +1,37 @@
 [
   {
+    "title": "Raavan",
+    "authors": [
+      "Amish Tripathi"
+    ],
+    "publisher": "Amazon Publishing",
+    "publishedDate": "2019",
+    "description": "",
+    "image": "https://covers.openlibrary.org/b/olid/OL28734635M-L.jpg",
+    "language": "en",
+    "averageRating": 0,
+    "ratingsCount": 0,
+    "categories": [
+      "English literature",
+      "Fiction",
+      "Blessing and cursing",
+      "Pirates",
+      "Hindu mythology"
+    ],
+    "pageCount": 400,
+    "isbn13": "9789388754088",
+    "googleBooks": {
+      "id": "OL28734635M",
+      "preview": "https://openlibrary.org/books/OL28734635M",
+      "info": "https://openlibrary.org/books/OL28734635M",
+      "canonical": "https://openlibrary.org/books/OL28734635M"
+    },
+    "issueNumber": 19,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2026-07-08T18:44:30.000Z"
+  },
+  {
     "title": "Magic Strings of Frankie Presto",
     "authors": [
       "Mitch Albom"

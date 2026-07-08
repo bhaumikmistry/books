@@ -14,8 +14,9 @@ Book tracker powered by [Bookshelf Action](https://github.com/bhaumikmistry/book
 ## My bookshelf
 
 <!--start:bookshelf-action-->
-### ⌛ Currently reading (5)
+### ⌛ Currently reading (6)
 
+[![Raavan](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Folid%2FOL28734635M-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/19 "Raavan by Amish Tripathi")
 [![Magic Strings of Frankie Presto](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Folid%2FOL29716612M-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/18 "Magic Strings of Frankie Presto by Mitch Albom")
 [![The Five People You Meet in Heaven](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F12884239-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/17 "The Five People You Meet in Heaven by ")
 [![Chanakya's Chant](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Folid%2FOL37054129M-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/16 "Chanakya's Chant by Ashwin Sanghi")
