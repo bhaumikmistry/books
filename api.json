@@ -1,5 +1,45 @@
 [
   {
+    "title": "To Kill a Mockingbird",
+    "authors": [
+      "Harper Lee"
+    ],
+    "publisher": "Harper Perennial Modern Classics",
+    "publishedDate": "2006",
+    "description": "One of the best-loved stories of all time, To Kill a Mockingbird has been translated into more than 40 languages, sold more than 30 million copies worldwide, served as the basis for an enormously popular motion picture, and voted one of the best novels of the 20th century by librarians across the United States. A gripping, heart-wrenching, and wholly remarkable tale of coming-of-age in a South poisoned by virulent prejudice, it views a world of great beauty and savage inequities through the eyes",
+    "image": "https://covers.openlibrary.org/b/id/15162569-L.jpg",
+    "language": "en",
+    "averageRating": 0,
+    "ratingsCount": 0,
+    "categories": [
+      "fiction",
+      "fiction classics",
+      "contemporary fiction",
+      "racial segregation",
+      "mob mentality"
+    ],
+    "pageCount": 323,
+    "isbn10": "0061120081",
+    "isbn13": "9780061120084",
+    "googleBooks": {
+      "id": "OL9242848M",
+      "preview": "https://openlibrary.org/books/OL9242848M",
+      "info": "https://openlibrary.org/books/OL9242848M",
+      "canonical": "https://openlibrary.org/books/OL9242848M"
+    },
+    "issueNumber": 38,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2026-07-08T18:55:56.000Z",
+    "userCategories": [
+      "fiction",
+      "fiction classics",
+      "contemporary fiction",
+      "racial segregation",
+      "mob mentality"
+    ]
+  },
+  {
     "title": "The Metamorphosis and Other Stories",
     "authors": [],
     "publisher": "Dover Publications",
