@@ -14,8 +14,9 @@ Book tracker powered by [Bookshelf Action](https://github.com/bhaumikmistry/book
 ## My bookshelf
 
 <!--start:bookshelf-action-->
-### ⌛ Currently reading (14)
+### ⌛ Currently reading (15)
 
+[![Red Queen](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F15178742-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/28 "Red Queen by ")
 [![My Gita](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F15221897-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/27 "My Gita by ")
 [![Norwegian Wood](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F6376119-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/26 "Norwegian Wood by ")
 [![A Brief History of Time](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F14589690-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/25 "A Brief History of Time by ")
