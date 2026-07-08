@@ -14,8 +14,9 @@ Book tracker powered by [Bookshelf Action](https://github.com/bhaumikmistry/book
 ## My bookshelf
 
 <!--start:bookshelf-action-->
-### ⌛ Currently reading (16)
+### ⌛ Currently reading (17)
 
+[![Water Street](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F244038-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/30 "Water Street by Patricia Reilly Giff")
 [![The Notebook](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F6305115-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/29 "The Notebook by Nicholas Sparks")
 [![Red Queen](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F15178742-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/28 "Red Queen by ")
 [![My Gita](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F15221897-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/27 "My Gita by ")

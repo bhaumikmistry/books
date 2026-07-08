@@ -1,5 +1,45 @@
 [
   {
+    "title": "Water Street",
+    "authors": [
+      "Patricia Reilly Giff"
+    ],
+    "publisher": "Wendy Lamb Books",
+    "publishedDate": "September 12, 2006",
+    "description": "In the shadow of the construction of the Brooklyn Bridge, eighth-graders and new neighbors Bird Mallon and Thomas Neary make some decisions about what they want to do with their lives.",
+    "image": "https://covers.openlibrary.org/b/id/244038-L.jpg",
+    "language": "en",
+    "averageRating": 0,
+    "ratingsCount": 0,
+    "categories": [
+      "Irish Americans",
+      "Self-realization in fiction",
+      "Families",
+      "Irish Americans in fiction",
+      "Families in fiction"
+    ],
+    "pageCount": 176,
+    "isbn10": "0385730683",
+    "isbn13": "9780385730686",
+    "googleBooks": {
+      "id": "OL7441955M",
+      "preview": "https://openlibrary.org/books/OL7441955M",
+      "info": "https://openlibrary.org/books/OL7441955M",
+      "canonical": "https://openlibrary.org/books/OL7441955M"
+    },
+    "issueNumber": 30,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2026-07-08T18:51:07.000Z",
+    "userCategories": [
+      "irish americans",
+      "self realization in fiction",
+      "families",
+      "irish americans in fiction",
+      "families in fiction"
+    ]
+  },
+  {
     "title": "The Notebook",
     "authors": [
       "Nicholas Sparks"
