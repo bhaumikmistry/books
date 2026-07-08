@@ -35,6 +35,39 @@
     ]
   },
   {
+    "title": "A Cup of Zen",
+    "authors": [
+      "Kai Tsukimi"
+    ],
+    "publisher": "Self-published",
+    "publishedDate": "2025",
+    "description": "21 Short Stories exploring philosophy, mindfulness, and Zen Buddhism through concise, thought-provoking narratives.",
+    "image": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1739365506i/227934388.jpg",
+    "language": "en",
+    "averageRating": 0,
+    "ratingsCount": 0,
+    "categories": [
+      "Philosophy",
+      "Nonfiction",
+      "Self Help",
+      "Short Stories",
+      "Zen"
+    ],
+    "pageCount": 112,
+    "googleBooks": {
+      "id": "",
+      "preview": "",
+      "info": "https://www.goodreads.com/book/show/227934388",
+      "canonical": "https://www.goodreads.com/book/show/227934388"
+    },
+    "issueNumber": 49,
+    "progressPercent": 0,
+    "read": 0,
+    "abandoned": false,
+    "state": "reading",
+    "startedAt": "2026-07-08T19:56:02.000Z"
+  },
+  {
     "title": "Tales from the Cafe",
     "authors": [
       "川口俊和",
