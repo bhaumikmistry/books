@@ -1,5 +1,32 @@
 [
   {
+    "title": "Night Creatures : Firefly",
+    "authors": [
+      "Robert Macfarlane",
+      "Luke Adam Hawker"
+    ],
+    "publisher": "Magic Cat",
+    "publishedDate": "2025",
+    "description": "",
+    "image": "https://covers.openlibrary.org/b/olid/OL60903099M-L.jpg",
+    "language": "en",
+    "averageRating": 0,
+    "ratingsCount": 0,
+    "categories": [],
+    "pageCount": 32,
+    "isbn13": "9781917366175",
+    "googleBooks": {
+      "id": "OL60903099M",
+      "preview": "https://openlibrary.org/books/OL60903099M",
+      "info": "https://openlibrary.org/books/OL60903099M",
+      "canonical": "https://openlibrary.org/books/OL60903099M"
+    },
+    "issueNumber": 45,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2026-07-08T19:00:09.000Z"
+  },
+  {
     "title": "Vegetariana / the Vegetarian",
     "authors": [
       "Han Kang"
