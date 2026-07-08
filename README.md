@@ -14,19 +14,8 @@ Book tracker powered by [Bookshelf Action](https://github.com/bhaumikmistry/book
 ## My bookshelf
 
 <!--start:bookshelf-action-->
-### ⌛ Currently reading (33)
+### ⌛ Currently reading (22)
 
-[![The Secret of the Nagas](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F6917318-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/47 "The Secret of the Nagas by Amish Tripathi")
-[![The Chola Tigers: Avengers of Somnath - A Historical Fiction by Amish](https://images.weserv.nl/?url=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FS%2Fcompressed.photo.goodreads.com%2Fbooks%2F1753099145i%2F239115044.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/46 "The Chola Tigers: Avengers of Somnath - A Historical Fiction by Amish by ")
-[![Night Creatures : Firefly](https://images.weserv.nl/?url=https%3A%2F%2Fi.gr-assets.com%2Fimages%2FS%2Fcompressed.photo.goodreads.com%2Fbooks%2F1747443786i%2F227786709.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/45 "Night Creatures : Firefly by Robert Macfarlane, Luke Adam Hawker")
-[![Before the Coffee Gets Cold](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F10138333-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/44 "Before the Coffee Gets Cold by 川口俊和")
-[![Vegetariana / the Vegetarian](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F15182525-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/43 "Vegetariana / the Vegetarian by Han Kang")
-[![Together](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F14784561-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/42 "Together by Luke Adam Hawker")
-[![Last Tree](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F14752345-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/41 "Last Tree by Luke Adam Hawker")
-[![Extreme ownership](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F12835042-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/40 "Extreme ownership by Jocko Willink")
-[![The Psychology of Money](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F15215449-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/39 "The Psychology of Money by ")
-[![To Kill a Mockingbird](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F15162569-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/38 "To Kill a Mockingbird by Harper Lee")
-[![The Metamorphosis and Other Stories](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F6889547-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/37 "The Metamorphosis and Other Stories by ")
 [![Revolution](https://images.weserv.nl/?url=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FS%2Fcompressed.photo.goodreads.com%2Fbooks%2F1683044093i%2F123249137.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/36 "Revolution by Charles Watts")
 [![Twice](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F15130697-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/35 "Twice by ")
 [![Days at the Morisaki Bookshop](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F13482084-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/34 "Days at the Morisaki Bookshop by Satoshi Yagisawa, Eric Ozawa")
@@ -49,5 +38,19 @@ Book tracker powered by [Bookshelf Action](https://github.com/bhaumikmistry/book
 [![Chanakya's Chant](https://images.weserv.nl/?url=https%3A%2F%2Fi.gr-assets.com%2Fimages%2FS%2Fcompressed.photo.goodreads.com%2Fbooks%2F1327939570i%2F10098912.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/16 "Chanakya's Chant by Ashwin Sanghi")
 [![For One More Day](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F12794158-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/15 "For One More Day by ")
 [![The Goldfinch](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F7267111-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/14 "The Goldfinch by ")
+
+### ✅ Completed (11)
+
+[![The Metamorphosis and Other Stories](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F6889547-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/37 "The Metamorphosis and Other Stories by  completed in 59 minutes on July 2026")
+[![To Kill a Mockingbird](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F15162569-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/38 "To Kill a Mockingbird by Harper Lee completed in 58 minutes on July 2026")
+[![The Psychology of Money](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F15215449-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/39 "The Psychology of Money by  completed in 58 minutes on July 2026")
+[![Extreme ownership](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F12835042-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/40 "Extreme ownership by Jocko Willink completed in 57 minutes on July 2026")
+[![Last Tree](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F14752345-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/41 "Last Tree by Luke Adam Hawker completed in 56 minutes on July 2026")
+[![Together](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F14784561-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/42 "Together by Luke Adam Hawker completed in 56 minutes on July 2026")
+[![Vegetariana / the Vegetarian](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F15182525-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/43 "Vegetariana / the Vegetarian by Han Kang completed in 55 minutes on July 2026")
+[![Before the Coffee Gets Cold](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F10138333-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/44 "Before the Coffee Gets Cold by 川口俊和 completed in 55 minutes on July 2026")
+[![Night Creatures : Firefly](https://images.weserv.nl/?url=https%3A%2F%2Fi.gr-assets.com%2Fimages%2FS%2Fcompressed.photo.goodreads.com%2Fbooks%2F1747443786i%2F227786709.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/45 "Night Creatures : Firefly by Robert Macfarlane, Luke Adam Hawker completed in 54 minutes on July 2026")
+[![The Chola Tigers: Avengers of Somnath - A Historical Fiction by Amish](https://images.weserv.nl/?url=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FS%2Fcompressed.photo.goodreads.com%2Fbooks%2F1753099145i%2F239115044.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/46 "The Chola Tigers: Avengers of Somnath - A Historical Fiction by Amish by  completed in 53 minutes on July 2026")
+[![The Secret of the Nagas](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F6917318-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/47 "The Secret of the Nagas by Amish Tripathi completed in 29 minutes on July 2026")
 
 <!--end:bookshelf-action-->
