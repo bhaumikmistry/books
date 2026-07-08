@@ -59,6 +59,43 @@
     ]
   },
   {
+    "title": "Before the Coffee Gets Cold",
+    "authors": [
+      "川口俊和"
+    ],
+    "publisher": "Picador",
+    "publishedDate": "Sep 19, 2019",
+    "description": "If you could go back in time, who would you want to meet?\r\n\r\nIn a small back alley of Tokyo, there is a café that has been serving carefully brewed coffee for more than one hundred years. Local legend says that this shop offers something else besides coffee—the chance to travel back in time.\r\n\r\nOver the course of one summer, four customers visit the café in the hopes of making that journey. But time travel isn’t so simple, and there are rules that must be followed. Most important, the trip can l",
+    "image": "https://covers.openlibrary.org/b/id/10138333-L.jpg",
+    "language": "en",
+    "averageRating": 0,
+    "ratingsCount": 0,
+    "categories": [
+      "Magical realism",
+      "time travel",
+      "slice-of-life",
+      "romance",
+      "family"
+    ],
+    "pageCount": 293,
+    "isbn10": "1529029589",
+    "isbn13": "9781529029581",
+    "googleBooks": {
+      "id": "OL28203220M",
+      "preview": "https://openlibrary.org/books/OL28203220M",
+      "info": "https://openlibrary.org/books/OL28203220M",
+      "canonical": "https://openlibrary.org/books/OL28203220M"
+    },
+    "issueNumber": 44,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2026-07-08T18:59:33.000Z",
+    "rating": 4.3,
+    "userCategories": [
+      "2025"
+    ]
+  },
+  {
     "title": "Vegetariana / the Vegetarian",
     "authors": [
       "Han Kang"
@@ -406,6 +443,43 @@
     "userCategories": [
       "favorites",
       "2026"
+    ]
+  },
+  {
+    "title": "Men Without Women",
+    "authors": [
+      "村上春樹"
+    ],
+    "publisher": "Vintage",
+    "publishedDate": "May 01, 2018",
+    "description": "A collection of stories by Haruki Murakami",
+    "image": "https://covers.openlibrary.org/b/id/8818031-L.jpg",
+    "language": "en",
+    "averageRating": 0,
+    "ratingsCount": 0,
+    "categories": [
+      "Translations into English",
+      "Fiction, short stories (single author)",
+      "Near and far eastern fiction (fictional works by one author)",
+      "nyt:hardcover-fiction=2017-05-28",
+      "New York Times bestseller"
+    ],
+    "pageCount": 240,
+    "isbn10": "1101974524",
+    "isbn13": "9781101974520",
+    "googleBooks": {
+      "id": "OL27354558M",
+      "preview": "https://openlibrary.org/books/OL27354558M",
+      "info": "https://openlibrary.org/books/OL27354558M",
+      "canonical": "https://openlibrary.org/books/OL27354558M"
+    },
+    "issueNumber": 33,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2026-07-08T18:52:56.000Z",
+    "rating": 4,
+    "userCategories": [
+      "older"
     ]
   },
   {
