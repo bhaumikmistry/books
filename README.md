@@ -21,8 +21,9 @@ Book tracker powered by [Bookshelf Action](https://github.com/bhaumikmistry/book
 [![A Cup of Zen](https://images.weserv.nl/?url=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FS%2Fcompressed.photo.goodreads.com%2Fbooks%2F1739365506i%2F227934388.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/49 "A Cup of Zen by Kai Tsukimi")
 [![Tales from the Cafe](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F12198651-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/48 "Tales from the Cafe by 川口俊和, Sunmark Publishing, Inc., Inc.")
 
-### ✅ Completed (33)
+### ✅ Completed (34)
 
+[![अक्टूबर जंक्शन](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F11054950-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/52 "अक्टूबर जंक्शन by Divya Prakash Dubey completed in 4 minutes on August 2026")
 [![The Goldfinch](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F7267111-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/14 "The Goldfinch by  completed in 1 hour on July 2026")
 [![For One More Day](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F12794158-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/15 "For One More Day by  completed in 1 hour on July 2026")
 [![Chanakya's Chant](https://images.weserv.nl/?url=https%3A%2F%2Fi.gr-assets.com%2Fimages%2FS%2Fcompressed.photo.goodreads.com%2Fbooks%2F1327939570i%2F10098912.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/16 "Chanakya's Chant by Ashwin Sanghi completed in 1 hour on July 2026")

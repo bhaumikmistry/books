@@ -1,5 +1,37 @@
 [
   {
+    "title": "अक्टूबर जंक्शन",
+    "authors": [
+      "Divya Prakash Dubey"
+    ],
+    "publisher": "Hind Yugm",
+    "publishedDate": "2019",
+    "description": "",
+    "image": "https://covers.openlibrary.org/b/id/11054950-L.jpg",
+    "language": "hi",
+    "averageRating": 0,
+    "ratingsCount": 0,
+    "categories": [],
+    "pageCount": 150,
+    "isbn10": "9387464407",
+    "isbn13": "9789387464407",
+    "googleBooks": {
+      "id": "OL32391724M",
+      "preview": "https://openlibrary.org/books/OL32391724M",
+      "info": "https://openlibrary.org/books/OL32391724M",
+      "canonical": "https://openlibrary.org/books/OL32391724M"
+    },
+    "issueNumber": 52,
+    "progressPercent": 100,
+    "read": 100,
+    "abandoned": false,
+    "state": "completed",
+    "startedAt": "2026-08-10T05:22:08.000Z",
+    "completedAt": "2026-08-10T05:26:11.000Z",
+    "timeToComplete": 243000,
+    "timeToCompleteFormatted": "4 minutes"
+  },
+  {
     "title": "The Story Collector",
     "authors": [
       "Evie Gaughan"
