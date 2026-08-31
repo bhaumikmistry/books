@@ -1,5 +1,32 @@
 [
   {
+    "title": "The Enchanted Cottage",
+    "authors": [
+      "Ruskin Bond"
+    ],
+    "publisher": "",
+    "publishedDate": "",
+    "description": "",
+    "image": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1669133623i/63559514.jpg",
+    "language": "en",
+    "averageRating": 0,
+    "ratingsCount": 0,
+    "categories": [],
+    "pageCount": 0,
+    "googleBooks": {
+      "id": "",
+      "preview": "https://www.google.com/books/edition/The_Enchanted_Cottage/Dn6czwEACAAJ?hl=en",
+      "info": "https://www.google.com/books/edition/The_Enchanted_Cottage/Dn6czwEACAAJ?hl=en",
+      "canonical": "https://www.google.com/books/edition/The_Enchanted_Cottage/Dn6czwEACAAJ?hl=en"
+    },
+    "issueNumber": 55,
+    "progressPercent": 0,
+    "read": 0,
+    "abandoned": false,
+    "state": "reading",
+    "startedAt": "2026-08-31T18:09:03.000Z"
+  },
+  {
     "title": "Tales from the Cafe",
     "authors": [
       "川口俊和",
