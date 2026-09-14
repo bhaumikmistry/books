@@ -20,11 +20,14 @@
       "canonical": "https://www.google.com/books/edition/The_Enchanted_Cottage/Dn6czwEACAAJ?hl=en"
     },
     "issueNumber": 55,
-    "progressPercent": 0,
-    "read": 0,
+    "progressPercent": 100,
+    "read": 100,
     "abandoned": false,
-    "state": "reading",
-    "startedAt": "2026-08-31T18:09:03.000Z"
+    "state": "completed",
+    "startedAt": "2026-08-31T18:09:03.000Z",
+    "completedAt": "2026-09-14T19:36:38.000Z",
+    "timeToComplete": 1214855000,
+    "timeToCompleteFormatted": "2 weeks"
   },
   {
     "title": "Tales from the Cafe",
