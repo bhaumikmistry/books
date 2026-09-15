@@ -14,14 +14,14 @@ Book tracker powered by [Bookshelf Action](https://github.com/bhaumikmistry/book
 ## My bookshelf
 
 <!--start:bookshelf-action-->
-### ⌛ Currently reading (3)
+### ⌛ Currently reading (2)
 
 [![The Story Collector](https://images.weserv.nl/?url=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FS%2Fcompressed.photo.goodreads.com%2Fbooks%2F1711733353i%2F205899692.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/51 "The Story Collector by Evie Gaughan")
 [![More Days at the Morisaki Bookshop](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F15235502-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/50 "More Days at the Morisaki Bookshop by Satoshi Yagisawa")
-[![A Cup of Zen](https://images.weserv.nl/?url=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FS%2Fcompressed.photo.goodreads.com%2Fbooks%2F1739365506i%2F227934388.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/49 "A Cup of Zen by Kai Tsukimi")
 
-### ✅ Completed (37)
+### ✅ Completed (38)
 
+[![A Cup of Zen](https://images.weserv.nl/?url=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FS%2Fcompressed.photo.goodreads.com%2Fbooks%2F1739365506i%2F227934388.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/49 "A Cup of Zen by Kai Tsukimi completed in 2 months on September 2026")
 [![The Enchanted Cottage](https://images.weserv.nl/?url=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FS%2Fcompressed.photo.goodreads.com%2Fbooks%2F1669133623i%2F63559514.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/55 "The Enchanted Cottage by Ruskin Bond completed in 2 weeks on September 2026")
 [![Tales from the Cafe](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F12198651-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/48 "Tales from the Cafe by 川口俊和, Sunmark Publishing, Inc., Inc. completed in 1 month on August 2026")
 [![Gunahon Ka Devta](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F15228898-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/53 "Gunahon Ka Devta by  completed in 3 minutes on August 2026")

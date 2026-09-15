@@ -1,5 +1,41 @@
 [
   {
+    "title": "A Cup of Zen",
+    "authors": [
+      "Kai Tsukimi"
+    ],
+    "publisher": "Self-published",
+    "publishedDate": "2025",
+    "description": "21 Short Stories exploring philosophy, mindfulness, and Zen Buddhism through concise, thought-provoking narratives.",
+    "image": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1739365506i/227934388.jpg",
+    "language": "en",
+    "averageRating": 0,
+    "ratingsCount": 0,
+    "categories": [
+      "Philosophy",
+      "Nonfiction",
+      "Self Help",
+      "Short Stories",
+      "Zen"
+    ],
+    "pageCount": 112,
+    "googleBooks": {
+      "id": "",
+      "preview": "",
+      "info": "https://www.goodreads.com/book/show/227934388",
+      "canonical": "https://www.goodreads.com/book/show/227934388"
+    },
+    "issueNumber": 49,
+    "progressPercent": 99,
+    "read": 100,
+    "abandoned": false,
+    "state": "completed",
+    "startedAt": "2026-07-08T19:56:02.000Z",
+    "completedAt": "2026-09-14T19:36:50.000Z",
+    "timeToComplete": 5874048000,
+    "timeToCompleteFormatted": "2 months"
+  },
+  {
     "title": "The Enchanted Cottage",
     "authors": [
       "Ruskin Bond"
@@ -191,39 +227,6 @@
       "general fiction",
       "fiction and literature"
     ]
-  },
-  {
-    "title": "A Cup of Zen",
-    "authors": [
-      "Kai Tsukimi"
-    ],
-    "publisher": "Self-published",
-    "publishedDate": "2025",
-    "description": "21 Short Stories exploring philosophy, mindfulness, and Zen Buddhism through concise, thought-provoking narratives.",
-    "image": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1739365506i/227934388.jpg",
-    "language": "en",
-    "averageRating": 0,
-    "ratingsCount": 0,
-    "categories": [
-      "Philosophy",
-      "Nonfiction",
-      "Self Help",
-      "Short Stories",
-      "Zen"
-    ],
-    "pageCount": 112,
-    "googleBooks": {
-      "id": "",
-      "preview": "",
-      "info": "https://www.goodreads.com/book/show/227934388",
-      "canonical": "https://www.goodreads.com/book/show/227934388"
-    },
-    "issueNumber": 49,
-    "progressPercent": 45,
-    "read": 45,
-    "abandoned": false,
-    "state": "reading",
-    "startedAt": "2026-07-08T19:56:02.000Z"
   },
   {
     "title": "The Goldfinch",
