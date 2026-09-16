@@ -123,15 +123,15 @@
     "authors": [
       "Ruskin Bond"
     ],
-    "publisher": "",
-    "publishedDate": "",
+    "publisher": "HarperCollins Publishers India",
+    "publishedDate": "2022",
     "description": "",
     "image": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1669133623i/63559514.jpg",
     "language": "en",
     "averageRating": 0,
     "ratingsCount": 0,
     "categories": [],
-    "pageCount": 0,
+    "pageCount": 60,
     "googleBooks": {
       "id": "",
       "preview": "https://www.google.com/books/edition/The_Enchanted_Cottage/Dn6czwEACAAJ?hl=en",
@@ -188,12 +188,14 @@
   },
   {
     "title": "Gunahon Ka Devta",
-    "authors": [],
-    "publisher": "",
-    "publishedDate": "",
+    "authors": [
+      "Dharamvir Bharti"
+    ],
+    "publisher": "Bharatiya Jnanpith",
+    "publishedDate": "1966",
     "description": "GUNAHON KA DEVTA\r\n\r\n\r\n-KUCH IS TARAH---Ek khushnuma subah chandar(chandra kumar)  jhill k kinare baitha tha,itne thakur shahab aate hai, kya chandar tum is college se PHD kar rahe ho na. haji mai yahan se phd kar raha hu. aur chandar itni subah subah kaise aana hua. ji mai dr shahab ki beti suddha hai uske liye kuch kitabe library se lene aaya hu syad wo bhi aat ihogi. itna baat karne k badh thakur shahab kahte hai chander chalo kahin aur bhaita jaaye. chander aur thakur shahab  uthte hai aur ka",
     "image": "https://covers.openlibrary.org/b/id/15228898-L.jpg",
-    "language": "en",
+    "language": "hi",
     "averageRating": 0,
     "ratingsCount": 0,
     "categories": [],
