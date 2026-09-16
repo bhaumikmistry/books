@@ -1,5 +1,88 @@
 [
   {
+    "title": "When Breath Becomes Air",
+    "authors": [
+      "Paul Kalanithi"
+    ],
+    "publisher": "Random House",
+    "publishedDate": "2016",
+    "description": "When Breath Becomes Air is a non-fiction autobiographical book written by American neurosurgeon Paul Kalanithi. It is a memoir about his life and illness, battling stage IV metastatic lung cancer. It was posthumously published by Random House on January 12, 2016.",
+    "image": "https://covers.openlibrary.org/b/id/12390254-L.jpg",
+    "language": "en",
+    "averageRating": 0,
+    "ratingsCount": 0,
+    "categories": [
+      "philosophy",
+      "Neurosurgeons",
+      "Cancer",
+      "Lungs",
+      "Husband and wife"
+    ],
+    "pageCount": 256,
+    "isbn10": "081298840X",
+    "isbn13": "9780812988406",
+    "googleBooks": {
+      "id": "OL32830998M",
+      "preview": "https://openlibrary.org/books/OL32830998M",
+      "info": "https://openlibrary.org/books/OL32830998M",
+      "canonical": "https://openlibrary.org/books/OL32830998M"
+    },
+    "issueNumber": 57,
+    "progressPercent": 0,
+    "read": 0,
+    "abandoned": false,
+    "state": "reading",
+    "startedAt": "2026-09-16T18:37:34.000Z",
+    "userCategories": [
+      "philosophy",
+      "neurosurgeons",
+      "cancer",
+      "lungs",
+      "husband and wife"
+    ]
+  },
+  {
+    "title": "The Year of Magical Thinking",
+    "authors": [
+      "Joan Didion"
+    ],
+    "publisher": "A. A. Knopf",
+    "publishedDate": "2005",
+    "description": "\"this happened on December 30, 2003. That may seem a while ago but it won't when it happens to you . . .\"In this dramatic adaptation of her award-winning, bestselling memoir (which Michiko Kakutani in The New York Times called \"an indelible portrait of loss and grief . . . a haunting portrait of a four-decade-long marriage), Joan Didion transforms the story of the sudden and unexpected loss of her husband and their only daughter into a stunning and powerful one-woman play.The first theatrical pr",
+    "image": "https://covers.openlibrary.org/b/id/6614581-L.jpg",
+    "language": "en",
+    "averageRating": 0,
+    "ratingsCount": 0,
+    "categories": [
+      "Dunne, john gregory, 1932-2003",
+      "Grief",
+      "Journalists, biography",
+      "Loss (psychology)",
+      "Mothers and daughters"
+    ],
+    "pageCount": 227,
+    "isbn10": "140004314X",
+    "googleBooks": {
+      "id": "OL23240168M",
+      "preview": "https://openlibrary.org/books/OL23240168M",
+      "info": "https://openlibrary.org/books/OL23240168M",
+      "canonical": "https://openlibrary.org/books/OL23240168M"
+    },
+    "issueNumber": 56,
+    "progressPercent": 90,
+    "read": 90,
+    "abandoned": false,
+    "state": "reading",
+    "startedAt": "2026-09-16T18:37:25.000Z",
+    "userCategories": [
+      "loss psychology",
+      "dunne john gregory 1932 2003",
+      "grief",
+      "journalists biography",
+      "mothers and daughters"
+    ]
+  },
+  {
     "title": "A Cup of Zen",
     "authors": [
       "Kai Tsukimi"

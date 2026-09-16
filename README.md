@@ -14,8 +14,10 @@ Book tracker powered by [Bookshelf Action](https://github.com/bhaumikmistry/book
 ## My bookshelf
 
 <!--start:bookshelf-action-->
-### ⌛ Currently reading (2)
+### ⌛ Currently reading (4)
 
+[![When Breath Becomes Air](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F12390254-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/57 "When Breath Becomes Air by Paul Kalanithi")
+[![The Year of Magical Thinking](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F6614581-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/56 "The Year of Magical Thinking by Joan Didion")
 [![The Story Collector](https://images.weserv.nl/?url=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FS%2Fcompressed.photo.goodreads.com%2Fbooks%2F1711733353i%2F205899692.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/51 "The Story Collector by Evie Gaughan")
 [![More Days at the Morisaki Bookshop](https://images.weserv.nl/?url=https%3A%2F%2Fcovers.openlibrary.org%2Fb%2Fid%2F15235502-L.jpg&w=128&h=196&fit=contain)](https://github.com/bhaumikmistry/books/issues/50 "More Days at the Morisaki Bookshop by Satoshi Yagisawa")
 
