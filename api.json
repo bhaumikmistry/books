@@ -28,11 +28,14 @@
       "canonical": "https://openlibrary.org/books/OL32830998M"
     },
     "issueNumber": 57,
-    "progressPercent": 0,
-    "read": 0,
+    "progressPercent": 100,
+    "read": 100,
     "abandoned": false,
-    "state": "reading",
+    "state": "completed",
     "startedAt": "2026-09-16T18:37:34.000Z",
+    "completedAt": "2026-09-30T01:42:31.000Z",
+    "timeToComplete": 1148697000,
+    "timeToCompleteFormatted": "1 week",
     "userCategories": [
       "philosophy",
       "neurosurgeons",
