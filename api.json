@@ -1,5 +1,46 @@
 [
   {
+    "title": "Forty Rules of Love",
+    "authors": [
+      "Elif Şafak"
+    ],
+    "publisher": "Penguin Books, Limited",
+    "publishedDate": "2015",
+    "description": "In this lyrical, exuberant tale, acclaimed Turkish author Elif Shafak, author of The Island of Missing Trees (a Reese's Book Club Pick), incarnates Rumi's timeless message of love\r\n\r\nThe Forty Rules of Love unfolds two tantalizing parallel narratives—one contemporary and the other set in the thirteenth century, when Rumi encountered his spiritual mentor, the whirling dervish known as Shams of Tabriz—that together explore the enduring power of Rumi's work. \r\n\r\nElla Rubenstein is forty years old a",
+    "image": "https://covers.openlibrary.org/b/id/15125981-L.jpg",
+    "language": "en",
+    "averageRating": 0,
+    "ratingsCount": 0,
+    "categories": [
+      "Fiction, general",
+      "Fiction",
+      "Housewives",
+      "Jewish women",
+      "Sufis"
+    ],
+    "pageCount": 368,
+    "isbn13": "9780241972939",
+    "googleBooks": {
+      "id": "OL28567779M",
+      "preview": "https://openlibrary.org/books/OL28567779M",
+      "info": "https://openlibrary.org/books/OL28567779M",
+      "canonical": "https://openlibrary.org/books/OL28567779M"
+    },
+    "issueNumber": 58,
+    "progressPercent": 30,
+    "read": 30,
+    "abandoned": false,
+    "state": "reading",
+    "startedAt": "2026-10-19T18:02:43.000Z",
+    "userCategories": [
+      "fiction",
+      "fiction general",
+      "housewives",
+      "jewish women",
+      "sufis"
+    ]
+  },
+  {
     "title": "The Year of Magical Thinking",
     "authors": [
       "Joan Didion"
