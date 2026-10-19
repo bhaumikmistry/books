@@ -1,5 +1,49 @@
 [
   {
+    "title": "The Year of Magical Thinking",
+    "authors": [
+      "Joan Didion"
+    ],
+    "publisher": "A. A. Knopf",
+    "publishedDate": "2005",
+    "description": "\"this happened on December 30, 2003. That may seem a while ago but it won't when it happens to you . . .\"In this dramatic adaptation of her award-winning, bestselling memoir (which Michiko Kakutani in The New York Times called \"an indelible portrait of loss and grief . . . a haunting portrait of a four-decade-long marriage), Joan Didion transforms the story of the sudden and unexpected loss of her husband and their only daughter into a stunning and powerful one-woman play.The first theatrical pr",
+    "image": "https://covers.openlibrary.org/b/id/6614581-L.jpg",
+    "language": "en",
+    "averageRating": 0,
+    "ratingsCount": 0,
+    "categories": [
+      "Dunne, john gregory, 1932-2003",
+      "Grief",
+      "Journalists, biography",
+      "Loss (psychology)",
+      "Mothers and daughters"
+    ],
+    "pageCount": 227,
+    "isbn10": "140004314X",
+    "googleBooks": {
+      "id": "OL23240168M",
+      "preview": "https://openlibrary.org/books/OL23240168M",
+      "info": "https://openlibrary.org/books/OL23240168M",
+      "canonical": "https://openlibrary.org/books/OL23240168M"
+    },
+    "issueNumber": 56,
+    "progressPercent": 100,
+    "read": 100,
+    "abandoned": false,
+    "state": "completed",
+    "startedAt": "2026-09-16T18:37:25.000Z",
+    "completedAt": "2026-09-30T01:42:46.000Z",
+    "timeToComplete": 1148721000,
+    "timeToCompleteFormatted": "1 week",
+    "userCategories": [
+      "loss psychology",
+      "dunne john gregory 1932 2003",
+      "grief",
+      "journalists biography",
+      "mothers and daughters"
+    ]
+  },
+  {
     "title": "When Breath Becomes Air",
     "authors": [
       "Paul Kalanithi"
@@ -42,47 +86,6 @@
       "cancer",
       "lungs",
       "husband and wife"
-    ]
-  },
-  {
-    "title": "The Year of Magical Thinking",
-    "authors": [
-      "Joan Didion"
-    ],
-    "publisher": "A. A. Knopf",
-    "publishedDate": "2005",
-    "description": "\"this happened on December 30, 2003. That may seem a while ago but it won't when it happens to you . . .\"In this dramatic adaptation of her award-winning, bestselling memoir (which Michiko Kakutani in The New York Times called \"an indelible portrait of loss and grief . . . a haunting portrait of a four-decade-long marriage), Joan Didion transforms the story of the sudden and unexpected loss of her husband and their only daughter into a stunning and powerful one-woman play.The first theatrical pr",
-    "image": "https://covers.openlibrary.org/b/id/6614581-L.jpg",
-    "language": "en",
-    "averageRating": 0,
-    "ratingsCount": 0,
-    "categories": [
-      "Dunne, john gregory, 1932-2003",
-      "Grief",
-      "Journalists, biography",
-      "Loss (psychology)",
-      "Mothers and daughters"
-    ],
-    "pageCount": 227,
-    "isbn10": "140004314X",
-    "googleBooks": {
-      "id": "OL23240168M",
-      "preview": "https://openlibrary.org/books/OL23240168M",
-      "info": "https://openlibrary.org/books/OL23240168M",
-      "canonical": "https://openlibrary.org/books/OL23240168M"
-    },
-    "issueNumber": 56,
-    "progressPercent": 90,
-    "read": 90,
-    "abandoned": false,
-    "state": "reading",
-    "startedAt": "2026-09-16T18:37:25.000Z",
-    "userCategories": [
-      "loss psychology",
-      "dunne john gregory 1932 2003",
-      "grief",
-      "journalists biography",
-      "mothers and daughters"
     ]
   },
   {
