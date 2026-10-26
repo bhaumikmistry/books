@@ -350,8 +350,8 @@
       "canonical": "https://openlibrary.org/books/OL52560288M"
     },
     "issueNumber": 50,
-    "progressPercent": 3,
-    "read": 3,
+    "progressPercent": 50,
+    "read": 50,
     "abandoned": false,
     "state": "reading",
     "startedAt": "2026-07-08T19:56:38.000Z",
